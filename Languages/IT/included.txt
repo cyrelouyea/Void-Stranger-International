@@ -103,7 +103,7 @@ Salve.
 Come pensavo.
 Ho osservato il tuo viaggio fino a questo punto.
 Sei davvero tenace per essere in questo luogo volontariamente.
-Purtroppo la tenacia non ti porterà oltre.
+Purtroppo però la tenacia non ti porterà oltre.
 Specialmente ora che hai tirato le cuoia.
 Dimmi.
 Desideri comunque continuare?
@@ -149,8 +149,8 @@ Qual è la tua decisione?
 [Desideri continuare]
 [Desideri arrenderti]
 Cosa farai?
-[Rifiuti di mangiare il frutto]
-[Ti rifiuti]
+[Accetta di mangiare il frutto]
+[Rifiutati]
 (Sa di...)
 (Arancia...?)
 (Di che stava parlando quella palla di pelo, comunque?)
@@ -7604,6 +7604,7 @@ Xylitol
 VOIDED
 MELODIA E VOCE
 Eevamari
+
 
 
 
