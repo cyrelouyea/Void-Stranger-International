@@ -119,7 +119,7 @@ Le loro menti sono così fragili.
 Così volatili.
 Così fuorviate.
 Così facilmente frustrate.
-Sono smerriti.
+Sono smarriti.
 Ma nonostante ciò...
 I loro sogni sono pieni di stelle.
 Più e più volte...
@@ -163,7 +163,7 @@ Non saprei dire...
 Se è questa la risposta...
 ... Che stavi cercando.
 È tutto ciò che mi rimane ormai.
-Mi assicurerò che possa vederla.
+Mi assicurerò che tu possa vederla.
 Lascia che ti mostri...
 La luce della tua stella della sera!
 ...
@@ -294,7 +294,7 @@ Scusa, sono d'intralcio?
 
 Completa quante più Brane possibili entro un tempo limite.
 Anche sconfiggere nemici ti darà dei succulenti punti extra.
-Usa gli idoli neri per ricominciare velocemente o torna alla schermata del titolo dal menù pricipale.
+Usa gli idoli neri per ricominciare velocemente o torna alla schermata del titolo dal menù principale.
 Punta al punteggio più alto.
 Ci sarà del fanservice se giocherai bene!
 In bocca al lupo!
@@ -308,7 +308,7 @@ O forse hai usato strumenti di debug o metodi di altro tipo.
 Ovviamente mi aspettavo che qualcuno alla fine avrebbe trovato questo luogo.
 Non sarei qui altrimenti.
 E se venisse fuori che mi sbaglio...
-... Qualcosa qualcosa riguardo a un alberto che cade senza fare alcun rumore.
+... Qualcosa qualcosa riguardo a un albero che cade senza fare alcun rumore.
 Comunque, sto solo ritardando l'inevitabile oramai.
 Questo mondo ha raggiunto il suo limite.
 È ora di qualcosa di nuovo.
@@ -347,3 +347,5 @@ Perché sei di nuovo qui...?
 ENGLISH/ITALIAN
 Giammaria Angeloni
 STRUMENTO DI TRADUZIONE
+
+
