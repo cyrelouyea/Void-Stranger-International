@@ -1,3 +1,5 @@
+[![it](https://img.shields.io/badge/italiano-green.svg)](./README.it.md)
+
 ## Setting things up
 
 The first thing to do is to download the latest version of Void Stranger International from [here](/../../releases/latest).
