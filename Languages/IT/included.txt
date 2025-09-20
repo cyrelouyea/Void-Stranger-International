@@ -72,7 +72,7 @@ LUCI INTERMITTENTI
 TAVOLOZZA
 Svegliati
 Metti fine a tutto
-MODALIÀ RIPOSO
+MODALITÀ RIPOSO
 PRESENTATO DA
 
 
@@ -109,7 +109,7 @@ Dimmi.
 Desideri comunque continuare?
 
 Ah, non mi ricordavo.
-Riconescere le facce non è esattamente il mio forte.
+Riconoscere le facce non è esattamente il mio forte.
 Allora credo proprio tu sappia già l'andazzo.
 Ecco a te.
 
@@ -743,7 +743,7 @@ Come se qualcuno se lo fosse inventato per avere una via d'uscita facile.
 ...
 E adesso di che sto parlando?
 Lascia stare.
-Devo proprio prepararmi a un bella strigliata.
+Devo proprio prepararmi a una bella strigliata.
 Oh, e se ti capita di trovare l'uscita avvisami, grazie.
 
 [Decidi di non disturbarla oltre]
@@ -798,7 +798,7 @@ Ti prego, non farmi del male!
 
 PROCESSO: ACCIDIA
 La dannata ha tentato di creare una scorciatoia tra le brane.
-È una situazione senza precedenti, in tuttà onestà.
+È una situazione senza precedenti, in tutta onestà.
 Le mura di queste brane sono impenetrabili.
 Un mortale non dovrebbe essere in grado di evaderle.
 Ma non fatevi l'idea sbagliata.
@@ -1026,7 +1026,7 @@ Per quale motivo, non saprei dirlo...
 
 Non tutti i Lord del Vuoto vedevano le cose allo stesso modo.
 Un giorno, una grande battaglia infuriò tra due fazioni dei lord.
-Quando i loro agenti si misero gli uni contro gli altri, il Vuoto inziò a destabilizzarsi...
+Quando i loro agenti si misero gli uni contro gli altri, il Vuoto iniziò a destabilizzarsi...
 
 La battaglia tra i Lord del Vuoto si protrasse per anni...
 Fino a che solo tre lord rimasero incolumi...
@@ -1088,7 +1088,7 @@ Non guardare il lord avido direttamente negli occhi, si diceva...
 Il suo sguardo trasforma chiunque in oro massiccio...
 Che destino terribile...
 
-Persino il lord avido mostrava interessa per gli idoli cavalletta...
+Persino il lord avido mostrava interesse per gli idoli cavalletta...
 Ma non li mangiava, semplicemente amava collezionarli...
 Se hai troppe cavallette sicuramente lo incontrerai, cercando di negoziare per averne alcune...
 
@@ -1122,7 +1122,7 @@ Ma o si sta dalla parte di Lord Add o...
 
 Lord Add colpì il lord flebile, che pur riportando serie ferite non morì...
 Ma non credere fosse un atto di pietà...
-Poiché al lord flebile fu impossibile mercire...
+Poiché al lord flebile fu impossibile marcire...
 
 Questo è il dominio di Lord Lev, L'Insidia...
 Serviva il Vuoto con indifferenza...
@@ -1228,7 +1228,7 @@ Rimarrà solo un semplice ricordo
 
 [Il murale è gravemente danneggiato]
 [Decifrare le sue iscrizioni sembra quasi impossibile...]
-[Un fioco, strano bagliore emana raggi di luce attravero le crepe]
+[Un fioco, strano bagliore emana raggi di luce attraverso le crepe]
 
 [Il murale si è sgretolato, rivelando una piccola nicchia piena di...]
 [... Cos'è questo?]
@@ -1500,7 +1500,7 @@ II SOGNO
 È assurdo!
 La prego, Sua Maestà, la imploro di calmarsi.
 Calmarmi?
-Quella disgraziata di mia figlia guiderà questa regno alla rovina...
+Quella disgraziata di mia figlia guiderà questo regno alla rovina...
 E tu implori ME di calmarmi?!
 L'impazienza è cattiva consigliera, Sua Maestà.
 Oh se sono stato paziente con lei.
@@ -1511,7 +1511,7 @@ Di quel misero re che non riesce nemmeno a rimettere in sesto sua figlia, per no
 E hai sentito del soprannome che le hanno appioppato?!
 Sono perfettamente al corrente delle voci, Sua Maestà.
 Allora trovala e cerca di farla ragionare, subito!
-Dille che non potrà uscire da queste mure finché non obbedirà!
+Dille che non potrà uscire da queste mura finché non obbedirà!
 Sua Maestà...
 Devo ricordarti qual è il tuo posto, Lady Gray?
 
@@ -1551,7 +1551,7 @@ Nessun potere di questo mondo potrà mai cambiarlo.
 Beh, come minimo ci vorrebbe qualcuno di più che un semplice capriccio.
 ...
 La lascerò riflettere ora.
-Cerchi di riposarsi stanotte, Sua Altezza.
+Cerchi di riposare stanotte, Sua Altezza.
 
 
 
@@ -1594,7 +1594,7 @@ Non c'è niente da fare...
 Non ce la faccio più...
 Che stanchezza...
 La strada finisce qui...
-Scusa per averti trascinato quaggiù con me, forestera...
+Scusa per averti trascinato quaggiù con me, forestiera...
 Ti aspettano solo sogni amari del mondo della veglia...
 INCONTRO CON CODA
 Fa' attenzioni lì.
@@ -1625,7 +1625,7 @@ O così mi è stato detto.
 Mmh, ho sentito dire che alcuni piani hanno più di un'uscita.
 Ma sono nascoste e solo i Lord del Vuoto rimasti sanno come accedervi.
 Potresti riuscire a incontrarli avventurandoti abbastanza in profondità.
-Tuttavia, dubito che vorrano condividere i loro segreti con te.
+Tuttavia, dubito che vorranno condividere i loro segreti con te.
 Io?
 A dispetto della mia statura, non sono un Lord.
 E visto che quell'uscita è un po' stretta per me...
@@ -1646,7 +1646,7 @@ Nessuna anima scampava al suo giudizio, nessun peccato restava impunito.
 Ma per quanto fosse vigile e intransigente, Eus ha sempre provato fascino per il peccato.
 Fascino che crebbe e crebbe, fino a che Eus fece l'impensabile e commise un peccato a sua volta.
 Quale fosse la natura di tale peccato, non lo so con precisione.
-Quando gli altri lord vennero a sapere di questa tragressione, ci fu una spaccatura.
+Quando gli altri lord vennero a sapere di questa trasgressione, ci fu una spaccatura.
 Alcuni difesero Eus, alcuni inveirono.
 Presto le discussioni si trasformarono in litigi e i litigi in feroci battaglie.
 Alla fine, la guerra divorò Eus e non ne rimase più nulla.
@@ -1835,13 +1835,13 @@ Probabilmente te ne pentiresti...
 Cerchi il marchio del Lord...?
 La coda del lord traditore collega il marchio...
 Perlomeno così era quando era ancora in vita...
-Anche se non so dovrebbe funzionare...
+Anche se non so come dovrebbe funzionare...
 
 (...)
 (Non ho più voglia di ascoltare questi cosi...)
 
 Nella settima stanza, un solo passo in più oltre l'uscita...
-Tre senguisughe erranti, una completamente irraggiungibile... Cadi dietro la cassa...
+Tre sanguisughe erranti, una completamente irraggiungibile... Cadi dietro la cassa...
 Una cassa vuota sospetta circondata dal vuoto, ispezionala una volta di troppo...
 Sorrisi insaziabili ti circondano, rompi l'intero pavimento di vetro prima di cadere...
 Solo una strada dritta, gettati prima del tuo riflesso...
@@ -1881,9 +1881,9 @@ Usali saggiamente!!
 [Sembrano parlare di qualcosa]
 Ti darò un altro indizio.
 Nessuno è perfetto senza di me.
-Non ho niente da offrire, però faccio sembra gli altri abbondanti.
+Non ho niente da offrire, però faccio sembrare gli altri abbondanti.
 Alcuni non possono vivere senza di me, per altri non tutto ciò che resta.
-Non mi si può condivere, però sono interminabile.
+Non mi si può condividere, però sono interminabile.
 Sono il nulla, ma sono il più grande di tutti.
 Senza di me, chiunque non ha scopo.
 Cosa sono io?
@@ -2142,7 +2142,7 @@ Non sminuirti così.
 Posso dire con certezza che non sei una dama di corte qualsiasi, Lady Gray.
 O dovrei dire ´´Gray la Distruttrice´´?
 ...
-Quindi anche è giunto anche alle sue orecchie.
+Quindi è giunto anche alle sue orecchie.
 Ho fatto del mio meglio per lasciarmi quel soprannome alle spalle, insieme al mio passato.
 Allora non insisterò oltre.
 Perché un passato doloroso è spesso meglio che sia dimenticato.
@@ -2244,7 +2244,7 @@ Chi trova tiene, come si dice.
 ... E no, non intendo rubare altro da te.
 Tu bada agli affari tuoi e io farò lo stesso.
 
-Che c'èÌ
+Che c'è?
 Ti sto bloccando il passaggio?
 Dammi un po' di tempo per riprendere fiato.
 
@@ -2321,7 +2321,7 @@ E anche fosse?
 Ovviamente non ho l'obbligo né il diritto di giudicare, Sua Altezza.
 Ma non crede di star procedendo in maniera un pelo frettolosa?
 ... Ho capito.
-Sarebbe stato meglio se gli avessi rotto2 qualche costola prima?
+Sarebbe stato meglio se gli avessi rotto qualche costola prima?
 Lo sa cosa intendo, Sua Altezza.
 Ti preoccupi troppo, Gray.
 Forse è così.
@@ -2724,7 +2724,7 @@ Non volevo averci niente a che fare, ma mi hanno coinvolto comunque.
 Per punizione, Add ha amputato il mio corpo.
 E quando ho sentito che aveva lasciato questo reame, ho capito che non avevo più speranze.
 Perché nessun altro avrebbe potuto concedermi il sonno eterno.
-Secondo alcune voci Add aveva nascosto i suoi tesori tra queste mure prima di andarsene, ma non ci avevo mai creduto...
+Secondo alcune voci Add aveva nascosto i suoi tesori tra queste mura prima di andarsene, ma non ci avevo mai creduto...
 Finché non sei arrivata tu.
 Vorrei che trovassi la spada di Add, la Lama del Vuoto.
 Solo essa è in grado di uccidermi.
@@ -2733,7 +2733,7 @@ Molto probabilmente Add l'ha nascosta in uno dei suoi passaggi segreti.
 I comuni mortali in genere non possono accedervi...
 Ad è qui che entra in gioco l'Asta del Vuoto.
 Dovresti poter imboccare i percorsi nascosti con un incantesimo speciale.
-Cerca di ricodartelo:
+Cerca di ricordartelo:
 ´´Dove il nulla incide il marchio del Lord...
 ... Dove il sentiero per la dannazione si apre dinanzi a te...
 ... Riponi la tua fede e abbraccia il Vuoto.´´
@@ -2912,7 +2912,7 @@ E che ti assicuri che niente stia... Scoppiando o cose del genere.
 Allora...
 Come mi sta?
 ...
-Cos'è quel sorrisino?
+Cos'è quel sorrisetto?
 Spero non ti stia inventando qualche battutina.
 È bellissimo, Sua Altezza.
 Non mi aspettavo di meno.
@@ -2942,7 +2942,7 @@ A cosa ti riferisci?
 Lo sai molto bene.
 Non posso continuare così.
 ... Che sorpresa.
-Non avrei mai immaginato che le tua convinzioni sarebbero oscillate così.
+Non avrei mai immaginato che le tue convinzioni sarebbero oscillate così.
 Ho mantenuto la mia promessa fino ad ora, no?
 Sposerò la tua piccola principessa e la renderò la mia regina...
 ... Così che possa finalmente ottenere la sua libertà.
@@ -2958,7 +2958,7 @@ Dopotutto è solo un'ingenua ragazzina viziata...
 Sarà anche una piccola peste insopportabile e infantile...
 Ma ho giurato di proteggerla.
 È l'unica cosa che mi importa.
-... Credevo che tu fra tutti avresti capito l'importanza delle nostre reponsabilità.
+... Credevo che tu fra tutti avresti capito l'importanza delle nostre responsabilità.
 Mi ero chiaramente fatto un'idea sbagliato di te, Lady Gray.
 Ma non pensare male.
 Ormai è troppo tardi per tornare indietro.
@@ -2972,7 +2972,7 @@ Ti ho davvero ammirata...
 Da quando ti ho vista occuparti di quei mercenari...
 Sapevo che eri straordinaria...
 Davvero un peccato.
-Sfortunatamente, i miei piani erano già in corso d'opera da molto prima che arrivasti tu, e adesso non ho tempo per questo...
+Sfortunatamente, i miei piani erano già in corso d'opera da molto prima che arrivassi tu, e adesso non ho tempo per questo...
 Quindi, se non posso avere ciò che desidero...
 Puoi benissimo morire, Gray la Distruttrice.
 
@@ -3023,7 +3023,7 @@ Dev'esserci un'altra strada...
 Da dove vieni?
 Ti sei persa?
 Posso aiutarti?
-C'è qualce problema?
+C'è qualche problema?
 Non vedi che sono occupata?
 Per quanto ancora...?
 Perché mi segui?
@@ -3033,9 +3033,9 @@ Smettila di gironzolarmi attorno una buona volta.
 Tu chi sei?
 
 ...
-A quanto parte l'hai capito.
+A quanto pare l'hai capito.
 Sei bloccata.
-Non c'è alcuno modo di andare avanti.
+Non c'è alcun modo di andare avanti.
 È impossibile.
 ... O così vorrei poter dire.
 Come se ciò bastasse per fermarti.
@@ -3154,7 +3154,7 @@ Lily.
 
 Lady Gray!
 Non credevo ai miei occhi quando ho visto le guardie portarla via...!
-Poi ho sentito delle acccuse di aggressione...
+Poi ho sentito delle accuse di aggressione...
 Che fesseria!
 Lei non farebbe mai del male a Sua Altezza!
 
@@ -3235,7 +3235,7 @@ La quota non è ancora stata raggiunta, è esatto?
 Rimane un'anima.
 Cosa dovrei fare...
 Perché non mi aiuti tu a decidere, mia cara?
-Se offri la tua anima come ultima parte del mio sacrificio, pometto di lasciare la tua principessa in vita.
+Se offri la tua anima come ultima parte del mio sacrificio, prometto di lasciare la tua principessa in vita.
 ... E perché mai dovrei fidarmi di te dopo tutto questo?
 Perché ti aggrapperai alla pur minima parvenza di speranza di salvare la tua piccola principessa.
 Così come hai fatto quando hai cercato di persuadermi a sposarla...
@@ -3255,7 +3255,7 @@ La Gray che conosco io non è così pappamolle!
 Umiliarti in quel modo è patetico!
 Dopo tutti questi anni...
 ... Ora hai deciso che ti sta bene scomparire in silenzio?!
-Smettila di comportarti come se fossi lì lì arrenderti!
+Smettila di comportarti come se fossi lì lì per arrenderti!
 ... Adesso mi sto facendo incoraggiare da Sua Altezza...
 Quanto sono caduta in basso...
 Johann.
@@ -3339,7 +3339,7 @@ Sua Altezza, aspetti!
 Non posso accettarlo!
 Tu, lassù...!
 Sembri il capo della combriccola...
-Ti suppico, prendi la mia anima invece!
+Ti supplico, prendi la mia anima invece!
 Fai anche a pezzi il mio corpo se necessario!
 ... Temo che ciò non sia possibile.
 DIS reputa la tua anima... non valida.
@@ -3386,7 +3386,7 @@ Questa volta non mancherò!
 Non succede nulla...?!
 
 Aah, quasi dimenticavo.
-Visto che non hai portato a termine il sacrifio in tempo, il tuo contratto è stato annullato.
+Visto che non hai portato a termine il sacrificio in tempo, il tuo contratto è stato annullato.
 Perciò puoi dire addio a quei poteri magici schioccando le dita e tutto il resto.
 Non fa ridere, Bee...!
 Me ne mancava solo una!
@@ -3395,7 +3395,7 @@ E comunque ho il presentimento che questo sia l'ultimo dei tuoi problemi ora com
 Ciao ciao!
 
 Gray, ti prego...
-È stata un giornata dura per entrambi...
+È stata una giornata dura per entrambi...
 Quindi calmati e ascoltami.
 Non hai idea di cosa abbia dovuto fare per arrivare dove sono ora.
 L'ho fatto solo per il mio regno...
@@ -3425,7 +3425,7 @@ Non così!
 [Lord del Vuoto Bee sbatte i piedi con impazienza]
 [Lord del Vuoto Bee diventa sempre più ansiosa!]
 [Lord del Vuoto Bee ne ha avuto abbastanza]
-[Lord del Vuoto Bee ti guarda con aria prigra]
+[Lord del Vuoto Bee ti guarda con aria pigra]
 [Lord del Vuoto Bee ti appare davanti infuriata!]
 
 [Attacchi il mostro]
@@ -3704,7 +3704,7 @@ Non me lo sono immaginato...
 Parla davvero!
 
 Scusa, ti ho spaventato?
-... Avrei dovuto fare più attenzione, dal momento che quelli come te tandono a tenere le distanze da me.
+... Avrei dovuto fare più attenzione, dal momento che quelli come te tendono a tenere le distanze da me.
 Ma ti assicuro che non ho cattive intenzioni.
 A dire il vero non parlo con nessuno da molto tempo, perciò è una bella ventata di aria fresca.
 
@@ -3828,7 +3828,7 @@ E poi...
 Credo che questa è quella giusta.
 No, a lei non importa affatto.
 Al contrario.
-Va bene, ci dormirò su, se ti tranquilizza.
+Va bene, ci dormirò su, se ti tranquillizza.
 A dopo.
 Mamma!
 
@@ -4202,7 +4202,7 @@ Una dodici e una quattordici.
 Un'età delicata...
 Per usare un eufemismo.
 Di certo mi fanno passare le pene dell'inferno quando le vado a trovare.
-Ma non cambiarei una singola cosa.
+Ma non cambierei una singola cosa.
 Presto diventeranno adulte, quindi farò del mio meglio per far sì che conti.
 Sono tutto ciò che si potrebbe desiderare.
 Che mi dici di te?
@@ -4255,7 +4255,7 @@ E i vostri figli?
 Ora se ne prende cura principalmente lei.
 Anche se do il massimo per partecipare e aiutare nei limiti delle possibilità.
 Dev'essere stata dura...
-Ma mi fa piacere sapere che siete riusciti a mantere buoni rapporti.
+Ma mi fa piacere sapere che siete riusciti a rimanere in buoni rapporti.
 Sì, non riesco neanche a immaginare quanto sarebbe stato difficile se fossi stato tutto da solo...
 ...
 ... Ho parlato senza pensare.
@@ -4440,7 +4440,7 @@ Come fai a conoscerla?
 Non è che la conosco di persona...
 Ma qualunque mercenario degno di questo nome ha sentito almeno una volta di Gray la Distruttrice!
 Ma ho avuto il privilegio di incontrarla faccia a faccia.
-Beh, di incontrare i suo pugni, ad essere esatti.
+Beh, di incontrare i suoi pugni, ad essere esatti.
 Ecco perché riconoscerei postura ovunque!
 Te l'ha insegnata lei, vero?
 Non so niente di mercenari o di tutta quell'altra roba senza senso...s
@@ -4494,7 +4494,7 @@ Quel tuo atteggiamento...
 Direi che Gray ti ha allenato bene.
 Fammi un favore.
 Se riesci a uscire da qui, salutala da parte mia.
-Ci fossimo incontrati in altre circostranze, forse avremmo potuto bere un bicchierino o due con tua madre.
+Ci fossimo incontrati in altre circostanze, forse avremmo potuto bere un bicchierino o due con tua madre.
 ... Non è mia madre.
 E stammi alla larga d'ora in poi.
 S-sì, certo.
@@ -4553,7 +4553,7 @@ Non è davvero nella posizione di dare consigli, ora come ora.
 Ci siamo passati sopra fin troppe volte.
 Eppure sua figlia è stata nuovamente coinvolta in una rissa...
 Questa volta con degli studenti di un anno più grandi!
-Ma da quanto ho capito, non è stata Lillie ha iniziare...
+Ma da quanto ho capito, non è stata Lillie a iniziare...
 Non è questo il punto!
 Ha slogato il gomito a uno dei ragazzi!
 Ha una vaga idea di quanto ci è voluto per calmare i suoi genitori?
@@ -4780,7 +4780,7 @@ Anche Freya ha detto che andava bene.
 ... Quindi sono io l'unica a cui non era stato detto nulla?
 ...
 Comunque la risposta resta no.
-Chimerò Freya e le dirò che non andrai.
+Chiamerò Freya e le dirò che non andrai.
 Ma mamma...
 Avrai un sacco di tempo per viaggiare quando sarai più grande.
 Ora voglio che pensi al tuo futuro.
@@ -5183,7 +5183,7 @@ H-ho sbagliato qualcosa?
 [La donna timida sembra piuttosto nervosa]
 Ehmm...
 Ho t-trovato questi mentre mi nascondevo...
-Non so se ti possano essere utili in quallche modo, ma p-puoi averli tu.
+Non so se ti possano essere utili in qualche modo, ma p-puoi averli tu.
 
 Quei m-mostri...
 Sono dappertutto...
@@ -5293,7 +5293,7 @@ Tutta la mia v-vita...
 È sempre stata s-seguire la massa e tenere un profilo basso.
 Così che gli altri non mi p-prendessero in giro...
 ...
-... È per il tuo balettare?
+... È per il tuo balbettare?
 Q-quindi l'hai notato...
 Scusa, ti darà molto f-fastidio...
 Ma dove?
@@ -5336,7 +5336,7 @@ Grazie, Lillie.
 Posso continuare io a fare la guardia, se sei s-stanca.
 Sono sicura che riposandoti abbastanza arriverai alla soluzione!
 
-[La donna timida annuisce, sorrindendo]
+[La donna timida annuisce, sorridendo]
 [...]
 [La tua faccia diventa ***** di nuovo]
 
@@ -5389,7 +5389,7 @@ Lillie!
 P-pensavo di averti perso...
 Sì, scusa...
 Stai bene?
-M-molto meglio, ora che si sei tu.
+M-molto meglio, ora che ci sei tu.
 
 Ancora queste statue...
 Fa' a-attenzione!
@@ -5723,11 +5723,11 @@ Direi che ti meriti una spiegazione.
 
 È successo anni fa ma ancora lo ricordo come se fosse ieri.
 Quel giorno non riuscivo a dormire.
-Quindi mi sono alzata prima per dare un'occhiata l'eclissi solare.
+Quindi mi sono alzata prima per dare un'occhiata all'eclissi solare.
 Quando è finita, ho visto una strana donna con dei vestiti strappati in mezzo alla strada.
 Se ne stava lì, silenziosa, tenendo gentilmente qualcosa tra le mani.
 Come se fosse apparsa dal nulla.
-... Quella donna era gray?
+... Quella donna era Gray?
 Già.
 
 Quando mi sono avvicinata, ho incrociato i suoi occhi.
@@ -5792,7 +5792,7 @@ Cos-
 ...
 Arrivi solo ora?
 Perché ci hai messo tanto?
-Ho cominciato a mancarti mentro ero via?
+Ho cominciato a mancarti mentre ero via?
 
 A quanto pare hai perso la lingua.
 Di nuovo.
@@ -5992,7 +5992,7 @@ Avanti!
 Che c'è scritto?!
 Vediamo...
 
-Lo sai che non dovresti ficcare il naso così nella lettere di qualcun altro?
+Lo sai che non dovresti ficcare il naso così nelle lettere altrui?
 Le tieni ancora d'occhio?
 ... Di che parli?
 Il tuo misero travestimento potrà aver ingannato DIS...
@@ -6064,18 +6064,18 @@ Chi o cosa è DIS?
 La mia ipotesi è che questo luogo in origine fosse una sorta di struttura di ricerca governata da un'entità nota come DIS.
 Sfortunatamente neanche io ho accesso alle parti più profonde di questa area, per cui i dettagli rimangono nebulosi.
 Il server principale è stato rinchiuso in aree sorvegliate meccanicamente.
-Dovessi tirare a indovinare, direi che è da qualche millenio non vi mette piede anima viva.
+Dovessi tirare a indovinare, direi che è da qualche millennio non vi mette piede anima viva.
 E molto probabilmente non accadrà mai più.
 ...
 Ciononostante, sono stata in grado di accedere ad alcune unità di memoria remota.
 La maggior parte di esse erano distrutte senza possibilità di poter essere riparate.
 Ma anche solo una frazione dei loro dati può contenere molte informazioni utili.
 Annotazioni di ricerca sparse riguardo a viaggi nello spazio quantico, tecnologie di ipervelocità, splicing genico...
-Ciò che è ancora più curioso è il fatto che tutti quei resoconti finoscono bruscamente in un determinato momento.
+Ciò che è ancora più curioso è il fatto che tutti quei resoconti finiscono bruscamente in un determinato momento.
 Databile intorno a 70000 anni fa.
 Deve essersi verificato un qualche cataclisma molto tempo fa.
 Un esperimento è andato male?
-O forse è scoppiata un guerra?
+O forse è scoppiata una guerra?
 Qualunque sia il caso, sembra che i manusya di questo pianeta siano stati quasi interamente spazzati via.
 
 ... Allora perché noi siamo ancora qui?
@@ -6198,7 +6198,7 @@ O almeno così credevo.
 Qualcosa non quadra.
 
 ...
-Preoccuparse serve a ben poco.
+Preoccuparsi serve a ben poco.
 Rimani vigile per il momento.
 Farò del mio meglio...
 
@@ -6407,7 +6407,7 @@ Accidenti, sembra tu abbia visto un fantasma.
 
 Dov'eri per tutto questo tempo?
 Come hai fatto a celare la tua presenza a DIS?
-Sinceramente non sono proprio affarti tuoi...
+Sinceramente non sono proprio affari tuoi...
 Ma dal momento che la mia copertura è saltata, potrei dirtelo...
 Dietro adeguato pagamento, s'intende.
 No, grazie.
@@ -6430,7 +6430,7 @@ UN SEMPLICE LAPSUS NON TI PORTERÀ DA NESSUNA PARTE, PRINCIPIANTE.
 I MIEI OCCHI...
 I MIEI OCCHI BRILLANTI...
 Incolpa il fato.
-Ora, se desideri una fine rapita e misericordiosa...
+Ora, se desideri una fine rapida e misericordiosa...
 Parla.
 Cosa state tramando tu e Lev?
 ...
@@ -6561,7 +6561,7 @@ Add...
 
 
 
-È così che vuoi che mettere fine a tutto?
+È così che vuoi mettere fine a tutto?
 ...
 Non ricordo l'ultima volta che DIS ci ha chiamati così in fondo.
 Quanto tempo...
@@ -6569,7 +6569,7 @@ Ma non credere che ci andrò piano con te solo per via dei sentimentalismi.
 
 DIS.
 Il livello di minaccia è ben maggiore di quanto ci aspettavamo.
-Di questo passo verrano violati i server principali.
+Di questo passo verranno violati i server principali.
 Richiedo un rilascio temporale dalla griglia principale in modo da rafforzare le nostre difese.
 
 Tutto questo non finirà...
@@ -6690,7 +6690,7 @@ Qual è la situazione?
 La mortale ha aggirato quasi tutti i firewall.
 Presto DIS sarà completamente alla tua mercé!
 Ben fatto, Mon.
-Senza gli idoli cavelletta che hai raccolto la mia resurrezione sarebbe stata impraticabile.
+Senza gli idoli cavalletta che hai raccolto la mia resurrezione sarebbe stata impraticabile.
 Ora che hai fatto quel che dovevi, ci sono due cose che vorrei dirti.
 ... Eh?
 Non dirai sul serio, sorella...?
@@ -6944,13 +6944,13 @@ Sbrigati!
 Qualcosa non va?
 Per un attimo ho sentito un terribile peso sullo stomaco.
 Come se qualcosa di molto, molto, molto brutto stesse per accadere.
-Mi sono venuti i briviti lungo la schiena.
+Mi sono venuti i brividi lungo la schiena.
 Calmati.
 Puoi farcela.
 
 Perché hai smesso?
 ... ... ...
-Questo banale atto di seguire passi prederminati all'unisono.
+Questo banale atto di seguire passi predeterminati all'unisono.
 È questo il tipo di ricordi di cui fai tesoro?
 È tutto qui?
 Scusa se ti ho deluso.
@@ -7224,7 +7224,7 @@ Quando si dice mette il carro davanti ai buoi!
 Ma comunque, l'ispirazione spesso viene da te quando meno te lo aspetti.
 Come personaggio, Gray mi ricorda Mamma Moomin di Moominland e Alita.
 Ripensandoci adesso, ci sono sicuramente cose del suo aspetto che vorrei migliorare, specialmente sapendo come finisce la storia...
-Nonostante ciò, sono felice di aver potuto vedere l'evoluzione del suo personaggio nel corso nel gioco.
+Nonostante ciò, sono felice di aver potuto vedere l'evoluzione del suo personaggio nel corso del gioco.
 Spero che abbia fatto colpo anche su di te.
 
 Questi sarebbero dovuti essere disegni di sfondo per riempire lo spazio negativo nelle stanze degli enigmi.
@@ -7232,7 +7232,7 @@ Ma una volta posizionati, sembravano fuori posto.
 Come se l'intera atmosfera fosse cambiata drasticamente.
 Per cui sono stati scartati.
 
-Questo è un primo abozzo per abituarmi a questo nuovo stile di pixel art.
+Questo è un primo abbozzo per abituarmi a questo nuovo stile di pixel art.
 Quei personaggi sembrano piuttosto familiari.
 Visto che ho dovuto acquisire nuove competenze per questo progetto, ho deciso sin da subito di moderare la fedeltà della grafica per mantenere la quantità di lavoro sopportabile.
 Inserire dettagli in spazi tanto piccoli si è rivelato sorprendentemente impegnativo.
@@ -7270,7 +7270,7 @@ Mentre il nostro mondo invecchia...
 Tutto quanto sembra farsi sempre meno stabile.
 Nonostante siamo più connessi di quanto non lo siamo mai stati...
 Non possiamo più raggiungerci a vicenda, anche quando desideriamo disperatamente di farci sentire, di farci capire.
-Ho avuto molte difficoltà con questo sensazione.
+Ho avuto molte difficoltà con questa sensazione.
 La sensazione che il mio lavoro fosse inutile.
 Però, magari...
 Il fatto che tu abbia fatto tutta questa strada significa che provi lo stesso desiderio che provo io.
@@ -7334,7 +7334,7 @@ Avrei preferito evitare che le cose finissero così.
 Ma la tua testardaggine ci ha lasciato davvero poca scelta.
 Che scelta ho io, allora?
 Perché non mi spari e basta?
-Sembreresti nell posizione ideale per farlo.
+Sembreresti nella posizione ideale per farlo.
 ... Dobbiamo ancora localizzare la scatole nera che hai rubato.
 Riconsegnacela.
 Non prima di aver completato la mia ricerca.
@@ -7435,7 +7435,7 @@ NON VUOLE FAR DEL MALE A NESSUNO
 È SOLO CHE NON VA D'ACCORDO CON GLI ALTRI
 PROBABILMENTE NON MI CREDI
 MA CREDO
-CHE SOTTO SOTTO È UN ANIMA GENTILE
+CHE SOTTO SOTTO È UN'ANIMA GENTILE
 NON FARESTI MAI DEL MALE A TAN
 VERO
 
@@ -7604,8 +7604,6 @@ Xylitol
 VOIDED
 MELODIA E VOCE
 Eevamari
-
-
 
 
 
