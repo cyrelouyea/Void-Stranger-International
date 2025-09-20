@@ -2,7 +2,7 @@
 
 The first thing to do is to download the latest version of Void Stranger International from [here](/../../releases/latest).
 
-After extracting it, go to the game directory (usually `C:\Program Files (x86)\Steam\steamapps\common\Void Stranger`), paste there the `Languages` folder and patch `data.win` with `VSTranslator.xdelta` using an xDelta patcher (such as [DeltaPatcher](https://www.romhacking.net/utilities/704/)).
+After extracting it, go to the game directory (usually `C:\Program Files (x86)\Steam\steamapps\common\Void Stranger`), paste there the `Languages` folder and patch `data.win` with `VSInternational.xdelta` using an xDelta patcher (such as [DeltaPatcher](https://www.romhacking.net/utilities/704/)).
 
 In this way you should already have the game translated in the languages currently available in Void Stranger International.
 
