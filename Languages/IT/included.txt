@@ -4443,7 +4443,7 @@ Ma ho avuto il privilegio di incontrarla faccia a faccia.
 Beh, di incontrare i suoi pugni, ad essere esatti.
 Ecco perché riconoscerei quella postura ovunque!
 Te l'ha insegnata lei, vero?
-Non so niente di mercenari o di tutta quell'altra roba senza senso...s
+Non so niente di mercenari o di tutta quell'altra roba senza senso...
 Ma Gray mi ha insegnato come badare a me stessa.
 Non hai sentito parlare delle sue gesta?
 Era scomparsa per molti anni dopo tutto il putiferio che aveva causato...
@@ -7604,6 +7604,7 @@ Xylitol
 VOIDED
 MELODIA E VOCE
 Eevamari
+
 
 
 
