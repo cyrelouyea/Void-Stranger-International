@@ -2592,14 +2592,14 @@ Mi fa quasi strano vederti ballare.
 Come mai?
 Sono più abituata a vederti dare calci e pugni.
 Dove hai imparato a ballare così?
-O no ti ricordi neanche quello?
+O non ti ricordi neanche quello?
 Oh, lo ricordo molto bene.
 Avevo all'incirca la sua età.
 All'epoca non sapevo far altro che...
 Dare calci e pugni, come direbbe lei.
 Perciò ero piuttosto scettica all'inizio.
 Fortunatamente ho avuto una brava insegnante.
-Hmm?
+Mmh?
 Sua Maestà la regina, naturalmente.
 ...
 Mi perdoni, Sua Altezza.
@@ -2616,7 +2616,7 @@ Le somiglia sempre di più col passare di ogni anno.
 Sarebbe orgogliosa di lei.
 
 Che c'è, Gray?
-oh, nulla.
+Oh, nulla.
 Devo essermelo immaginato.
 (C'era qualcuno alla porta un attimo fa...?)
 
@@ -7604,6 +7604,7 @@ Xylitol
 VOIDED
 MELODIA E VOCE
 Eevamari
+
 
 
 
