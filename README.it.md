@@ -6,6 +6,8 @@ Dopo aver estratto la cartella compressa, andare alla cartella del gioco (di sol
 
 Dopo aver seguito questo passaggio il gioco dovrebbe già essere tradotto nelle lingue attualmente disponibili in Void Stranger International.
 
+___Se si è interessati solo a scaricare la traduzione italiana, la guida termina qui.___
+
 ## Cominciare a tradurre
 
 Per creare una nuova traduzione in un'altra lingua, scaricare i file presenti in [questa cartalla](/Languages/EN), che contengono tutte le stringhe in inglese, e tradurli, assicurandosi che ogni stringa rimanga alla riga corretta. Dopo aver fatto ciò, si avranno i file tradotti `included.txt` e `extracted.txt`.
