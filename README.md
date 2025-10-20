@@ -8,6 +8,8 @@ After extracting it, go to the game directory (usually `C:\Program Files (x86)\
 
 In this way you should already have the game translated in the languages currently available in Void Stranger International.
 
+___You can ignore the rest if you're here only to download the Italian translation.___
+
 ## Starting to translate
 
 To create a new translation into another language, get the files in [this folder](/Languages/EN), which contain all the original English strings, and translate them, making sure that the every string remains in the same line. After doing that, you'll have `included.txt` and `extracted.txt` translated files.
