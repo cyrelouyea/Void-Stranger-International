@@ -1,3 +1,7 @@
+__Traduzioni attualmente incluse:__
+* Italiano di GiAnMMV
+* Francese di Oskilla
+
 ## Preparazione
 
 La prima cosa da fare è scaricare l'ultima versione di Void Stranger International da [qui](/../../releases/latest).
@@ -6,7 +10,7 @@ Dopo aver estratto la cartella compressa, andare alla cartella del gioco (di sol
 
 Dopo aver seguito questo passaggio il gioco dovrebbe già essere tradotto nelle lingue attualmente disponibili in Void Stranger International.
 
-___Se si è interessati solo a scaricare la traduzione italiana, la guida termina qui.___
+___Se si è interessati solo a scaricare le traduzioni attualmente incluse, la guida termina qui.___
 
 ## Cominciare a tradurre
 
