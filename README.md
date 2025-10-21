@@ -1,5 +1,5 @@
 [![it](https://img.shields.io/badge/italiano-green.svg)](./README.it.md)
-[![fr](https://img.shields.io/badge/française-green.svg)](./README.fr.md)
+[![fr](https://img.shields.io/badge/français-green.svg)](./README.fr.md)
 
 __Currently included languages:__
 * Italian by GiAnMMV
