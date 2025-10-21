@@ -1,7 +1,7 @@
 [![it](https://img.shields.io/badge/italiano-green.svg)](./README.it.md)
 [![fr](https://img.shields.io/badge/français-green.svg)](./README.fr.md)
 
-__Currently included languages:__
+__Currently included translations:__
 * Italian by GiAnMMV
 * French by Oskilla
 
@@ -13,7 +13,7 @@ After extracting it, go to the game directory (usually `C:\Program Files (x86)\
 
 In this way you should already have the game translated in the languages currently available in Void Stranger International.
 
-___You can ignore the rest if you're here only to download the Italian or the French translation.___
+___You can ignore the rest if you're here only to download the currently included translations.___
 
 ## Starting to translate
 
