@@ -102,7 +102,7 @@ Salve.
 
 Come pensavo.
 Ho osservato il tuo viaggio fino a questo punto.
-Sei davvero tenace per essere in questo luogo volontariamente.
+Devi essere proprio tenace, visto che hai messo piede in questo luogo di tua spontanea volontà.
 Purtroppo però la tenacia non ti porterà oltre.
 Specialmente ora che hai tirato le cuoia.
 Dimmi.
@@ -118,7 +118,7 @@ Nessuno può aggirare la morte.
 Ma c'è un trucco che potresti provare.
 Se mangi qualcosa qui, diventerai parte di questo reame.
 Così da poter esplorare queste sale a tuo completo piacimento.
-Per pura coincidenza ho quel frutto qui con me.
+Per pura coincidenza ho questo frutto qui con me.
 Vorresti mangiarlo?
 
 Grandioso.
@@ -130,9 +130,9 @@ Ecco qui.
 Ci è voluto solo questo.
 Solo questo.
 Per farti arrendere, mortale?
-Anche quando il mio interesse per la tue specie continua a calare.
+Nonostante il mio interesse per la tua specie continui a calare.
 Non posso fare a meno di chiedermi.
-Cosa ti ha fatto sentire in quel modo.
+Cos'è che ti ha fatto sentire in quel modo.
 I tuoi pensieri sparsi presto si uniranno a quelli degli altri.
 In questo interminabile vuoto forgiato dalla disperazione.
 Siamo andati troppo oltre.
@@ -141,7 +141,7 @@ Non puoi arrenderti proprio adesso.
 [Hai mangiato tutto il frutto]
 [Il suo sapore ti è sconosciuto]
 [Eppure la polpa è sorprendentemente dolce, ma anche amara]
-[Probabilmente avresti dovuto sbucciarlo prima di mangiarlo però]
+[Probabilmente avresti dovuto sbucciarlo prima di mangiarlo, però]
 [...]
 
 Cosa rispondi?
@@ -222,10 +222,10 @@ Smamma. -Bee
 [L U C K Y !]
 
 [Peccato tu non possa tenerne altri...]
-[Mentre provi a rimetterli a posto, si sbriciolano diventando una polvere finissima]
+[Mentre provi a rimetterli a posto, si sbriciolano in una polvere finissima]
 [... Che perdita di tempo]
 [Peccato tu non possa tenerne altri...]
-[Mentre provi a rimetterlo a posto, si sbriciola diventando una polvere finissima]
+[Mentre provi a rimetterlo a posto, si sbriciola in una polvere finissima]
 [Sa di segatura]
 [Sanno di segatura]
 [... Perché hai ricominciato a collezionarli?]
@@ -7604,6 +7604,7 @@ Xylitol
 VOIDED
 MELODIA E VOCE
 Eevamari
+
 
 
 
