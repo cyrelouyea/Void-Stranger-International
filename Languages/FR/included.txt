@@ -14,21 +14,21 @@ OPTIONS
 QUITTER LE JEU
 GRAPHISME
 AUDIO
-CONTROLE
+COMMANDES
 DIVERS
-MAITRE
+GÉNÉRAL
 MUSIQUE
 EFFET SONORE
-RESOLUTION
-PLEINE ÉCRAN
+RÉSOLUTION
+PLEIN ÉCRAN
 CHRONOMÈTRE
-COMPTE PAS
+COMPTEUR
 HAUT
 GAUCHE
-DROIT
+DROITE
 BAS
 BOUTON ACTION
-LANGAGE
+LANGUE
 START
 Passer...
 VITESSE DE TEXTE
@@ -70,7 +70,7 @@ Vous reposez ?
 [Il vaudrait mieux continuer]
 FLASHING FX
 PALETTE
-Éveil
+Réveille-toi
 En finir
 REPOS ARRÊTER
 PRESENTED BY
@@ -102,14 +102,14 @@ C'est votre première fois ici ?
 
 C'est ce que je pensais.
 J'ai suivi votre voyage jusqu'à présent.
-Vous devez vraiment être déterminé pour venir ici de votre plein gré.
+Vous devez vraiment être déterminée pour venir ici de votre plein gré.
 Malheureusement, la détermination ne vous mènera pas loin.
 Surtout, maintenant, que vous êtes morte.
 Dites-moi.
 Souhaitez-vous tout de même continuer ?
 
-Ah, je ne vous avais pas reconnu.
-Je ne suis pas très doué pour reconnaître les visages.
+Ah, je ne vous avais pas reconnue.
+Je ne suis pas très douée pour reconnaître les visages.
 Alors je pense que vous connaissez déjà la chanson.
 Voilà.
 
@@ -131,7 +131,7 @@ Je vous laisse vous débrouiller.
 Tout ce qu'il fallait ?
 Pour que vous abandonniez, mortelle ?
 Même si mon intérêt pour votre espèce ne cesse de décliner.
-Je ne peux m'empêcher de me demansder.
+Je ne peux m'empêcher de me demander.
 Qu'est-ce qui vous a poussé à agir ainsi.
 Vos pensées dispersées rejoindront bientôt les autres.
 Dans ce vide infini creusé par le désespoir
@@ -161,7 +161,7 @@ VOIDROD SCENE
 [Le simple fait de le tenir vous met mal à l'aise]
 [Quelque chose ne va pas]
 
-[Sceptre de Add...]
+[Le sceptre d'Add...]
 [...]
 [Allons trouver Bee!]
 
@@ -205,7 +205,7 @@ Si jamais tu as oublié comment s'en servir :
 
 
 
-Tu peux voler au-dessus de petit espace comme ça.
+Tu peux voler au-dessus de petits espaces comme ça.
 Saute et crois en toi !
 Si seulement j'avais mes propres ailes aussi.
 S'il te plaît donne-moi des ailes ! -Bee
@@ -218,7 +218,7 @@ Dégage. -Bee
 [En vrai, ça a l'air vraiment bon]
 [Qui sait, cela pourrait s'avérer utile à long terme]
 
-[Vous avez obtenu : trois Idole de Sauterelle]
+[Vous avez obtenu : trois Idoles de Sauterelle]
 [C H A N C E U S E !]
 
 [Dommage que vous ne pouvez pas en prendre plus...]
@@ -232,11 +232,11 @@ Dégage. -Bee
 [... Une autre ...]
 [Vous avez trouvé les ailes d'Add]
 [...]
-[Mieux vaut les laissés]
+[Mieux vaut les laisser]
 
 [Vous avez trouvé le noyau d'Add]
 [...]
-[Mieux vaut le laissé]
+[Mieux vaut le laisser]
 
 (Espèce d'imbécile...)
 
@@ -249,7 +249,7 @@ Dégage. -Bee
 [... C'est vide]
 [C'est vraiment, vraiment vide]
 [Mais à y regarder de plus...]
-[On dirait que le coffre a été ouvert de force a un moment]
+[On dirait que le coffre a été ouvert de force à un moment]
 
 [Un message grossièrement écrit brille à travers la niche]
 [On peut y lire :]
@@ -1333,7 +1333,7 @@ DÉFENDRE
 OBSERVER
 
 Princesse gâtée !
-Enfant gâté !
+Enfant gâtée !
 Petit diable insupportable !
 Reine pénible !
 Âne décadent !
@@ -1342,16 +1342,16 @@ Reine égoïste !
 Impératrice égocentrique !
 Même un dragon ne vous mangerait pas !
 Aristocrate répugnante !
-Fait preuve d'un peu de discipline !
+Faite preuve d'un peu de discipline !
 Allez prendre un bain !
 Maelström d'un monarque !
 Princesse pompeuse !
 Épine dans le trône !
 Souveraine espiègle !
-Royal vaurien !
+Royale vaurienne !
 Tête couronnée née dans une haie !
 Chèvre au langage grossier !
-Bécasse nourri à la cuillère d'argent !
+Bécasse nourrie à la cuillère d'argent !
 
 Je vais te frapper et te donner des coups de pied.
 Coup de pied sauté !
@@ -1871,8 +1871,8 @@ Enfin, si vous survivez à votre rencontre avec Cif...
 Bonne chance !
 Ksi shi shi shi shi !
 
-SPECIAL BRAND REVEALED!
-HOW TO USE:
+MARQUE SPÉCIALE RÉVÉLÉE !
+MODE D'EMPLOI :
 Dessinez la marque spéciale deux fois avant la vôtre pour l'activer.
 Utilisez-les à bon escient !
 
@@ -7098,14 +7098,14 @@ Mais qu'est-ce qui se passe ?!
 
 Merci.
 
-Tu ne peux pas utiliser celui-là.
-J'ai bien peur qu'il soit déjà pris, petit.
-Trouve-t'en un autre, cafard. 
-Celui-là est peut-être trop cher, même pour toi !
+Tu ne peux pas utiliser celle-là.
+J'ai bien peur qu'elle soit déjà prise, petit.
+Trouve-t'en une autre, cafard. 
+Celle-là est peut-être trop chère, même pour toi !
 Laisse-moi tranquille...
 C'est agaçant.
 Refusé.
-...Tu ne peux pas utiliser celui-là.
+...Tu ne peux pas utiliser celle-là.
 Il y a toujours quelque chose.
 Maintiens BAS enfoncé pendant six secondes sur l'écran titre pour commencer un nouveau défi.
 Bonne chance !
@@ -7140,7 +7140,7 @@ D'où vient-elle...
 Beurk...
 Fais quelque chose, s'il te plaît...
 
-Tu es sûr de toi... ?
+Tu es sûr·e de toi... ?
 J'espère que tu sais ce que tu fais.
 
 ...

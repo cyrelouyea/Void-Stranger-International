@@ -14,14 +14,14 @@ REDUIT
 Maman !
 Qu'y a-t-il, ma chérie ?
 Regarde !
-Oh, tu en as trouvé un !
-Elle a même cing pétales.
+Oh, tu en as trouvé une !
+Elle a même cinq pétales.
 Hehee...
 Tu ne l'as pas simplement cueillie, petite chipie ?
 Pas du tout !
 Je l'ai trouvée toute seule !
 Je te taquine, c'est tout.
-Quand j'étais petit, nous cueillions ces fleurs en souvenir de ceux qui étaient décédés.
+Quand j'étais petite, nous cueillions ces fleurs en souvenir de ceux qui étaient décédés.
 Tu devrais la donner à mamie.
 D'accord!
 Qu'est-ce que tu insinues là?
@@ -106,13 +106,13 @@ Alors c'est oui ?
 [...]
 [Est-il défectueux ??]
 ...
-Et...
+Add...
 Il y a longtemps...
 Tu nous as créées, mes sœurs et moi.
-Tu nous as élevés.
-Tu nous as guidés.
-Tu nous as rendus immuables.
-Éternels.
+Tu nous as élevées.
+Tu nous as guidées.
+Tu nous as rendues immuables.
+Éternelles.
 Afin que nous puissions poursuivre ton œuvre...
 Manusya.
 Leurs esprits sont si fragiles.
@@ -134,8 +134,8 @@ J'ai contemplé les étoiles.
 J'ai étudié leurs mouvements.
 Je les ai toutes nommées.
 Je n'ai trouvé aucun sens à leur existence.
-Qu'est-ce qui nous manque...
-... à nous ?
+Qu'est-ce qui me...
+... nous manque ?
 J'ai fini par comprendre.
 Même l'étoile la plus brillante...
 finit par s'éteindre.
@@ -159,7 +159,7 @@ A commencé à grandir en moi.
 De l'amour ?
 Ou autre chose ?
 Add.
-Je ne suis pas sûr...
+Je ne suis pas sûre...
 Que ce soit la réponse...
 ... Que tu cherchais.
 C'est tout ce qui me reste maintenant.
@@ -168,19 +168,19 @@ Laisse-moi te montrer...
 La lumière de ton étoile du soir!
 ...
 Excusez-moi...
-Désolé, je vous ai confondu avec quelqu'un d'autre.
-Avez vous vu ma sœur ?
+Désolée, je vous ai confondue avec quelqu'un d'autre.
+Avez-vous vu ma sœur ?
 Elle a les cheveux courts et ses yeux sont de la même couleur que les vôtres.
 Elle peut être un peu timide, alors elle se cache probablement quelque part.
 Vous cherchez quelqu'un vous aussi ?
-Désolé, je n'ai rencontré personne d'autre ici à part vous.
+Désolée, je n'ai rencontré personne d'autre ici à part vous.
 Cet endroit est assez étrange..
 J'ai presque l'impression d'avoir tourné en rond dans ces couloirs pendant des jours.
 Je pense que nous sommes toutes les deux complètement perdus.
 ...
 Hey.
-Je suis sûr que vous trouverez celle que vous cherchez.
-N'abandonnez pas
+Je suis sûre que vous trouverez celle que vous cherchez.
+N'abandonnez pas.
 Oh.
 Bonjour.
 Je ne vous avais pas vu.
@@ -201,7 +201,7 @@ La dernière fois, vous êtes partie si précipitamment que je n'ai pas eu le te
 Mais savez-vous ce qu'est cet endroit ?
 ...
 Un cauchemard.
-Je suis sûr que vous allez bientôt vous réveiller.
+Je suis sûre que vous allez bientôt vous réveiller.
 (Mieux vaut en rester là.)
 Un rêve, hein...
 Est-ce que nous faisons le même rêve alors ?
@@ -217,12 +217,12 @@ Je vois...
 Quoi ?
 Comment faites-vous pour dormir avec ces cornes ?
 (Comment faites-VOUS pour dormir avec une telle capacité d'attention ?!)
-(J'ai le sentiment que je vous reverrai plus tard...)
-Vous m'avez inquiété pendant un instant.
+(J'ai le sentiment désagréable que je vous reverrai plus tard...)
+Vous m'avez inquiétée pendant un instant.
 J'ai cru que je vous avais manqué.
 (Moi aussi...)
 Je sais que c'est un rêve...
-Est ce que vous cherchez quelquechose ?
+Est ce que vous cherchez quelque chose ?
 ... 
 Maintenant que vous me le demandez...
 Avez-vous vu quelqu'un d'autre dans les environs ?
@@ -232,7 +232,7 @@ Est ce qu'elle a des cornes aussi grande que les votre ?
 ... Est ce que cela change votre réponse ?
 ... Non.
 (Quelle perte de temps.)
-Ah, nous nous rencontrons a nouveau.
+Ah, nous nous rencontrons à nouveau.
 ...
 ...
 ...
@@ -242,13 +242,13 @@ O-okay...?
 ...
 (Super...)
 (Je commence a perdre pieds.)
-(Je ne peux pas géré cette mortelle...)
+(Je ne peux pas supporter cette mortelle...)
 Salut.
 Avez-vous eu de la chance dans vos recherche ?
 Non.
-Je penses que j'ai perdu la notion du temps.
+Je pense que j'ai perdu le fil.
 Je devrais recommencer depuis le début.
-Je suis désolé...
+Je suis désolée...
 Ne vous en faites pas.
 Cela ne vous regarde pas de toute façon.
 ...
@@ -257,48 +257,48 @@ Je ne voulais pas vous dérangez plutôt, mais...
 (Mission ratée de manière spectaculaire.)
 Je cherche quelqu'un aussi.
 Ou du moins je le pensais.
-Je commence a me dire que je perds mon temps.
+Je commence à me dire que je perds mon temps.
 Ce rêve...
-Prendera-t-il fin un jour ?
+Prendra-t-il fin un jour ?
 ...
 N'arrêtez jamais de chercher.
 Hein?
 N'arrêtez jamais de poser des questions.
-N'abandonnez jamis.
+N'abandonnez jamais.
 Puis, avec le temps, les réponses suivront.
-Celel que vous cherchez...
-Elle doit être très importante pour vous, n'est ce pas?
+Celle que vous cherchez...
+Elle doit être très importante pour vous, n'est-ce pas?
 Elle doit sûrement t'attendre.
 Ne la decevez pas.
 ...!
-Vous avez .
+Vous avez raison.
 Merci la cor-
 ...
-Ah, je n'ais jamais demandez votre nom.
+Ah, je n'ai jamais demandé votre nom.
 ... Cif.
 Trop cool!
 Mon nom est...
 ...
 Étrange.
 Pourquoi je ne m'en souviens pas...?
-(Vous en êtes déjà a ce stade...?)
-J'ai oublié le miens il y a très longtemps.
+(Vous en êtes déjà à ce stade...?)
+J'ai oublié le mien il y a très longtemps.
 Cif n'est qu'un surnom.
-Oh, je ne saivais pas que ce genre de choses pouvait arriver dans un rêve.
-Je suppose que je vais aussi devoirs chercher mon nom!
-(Pourquoi est ce que je me rapelle de ça?)
+Oh, je ne savais pas que ce genre de choses pouvait arriver dans un rêve.
+Je suppose que je vais aussi devoir chercher mon nom!
+(Pourquoi est-ce que je me rapelle de ça?)
 (Pourquoi maintenant...)
 (...)
-(Acroche toi, Bee.)
+(Accroche-toi, Bee.)
 Excusez-moi, je vous dérange ?
 
-Battez autant de Branes que vous pouvez dans le temps impartie.
-Vous gagnerez également de précieux points supplémentaires en battant des ennemis.
-Utilisez l'idole noir pour redémarrer plus  rapidement ou pour retourner au menu principal.
+Battez autant de Branes que vous pouvez dans le temps imparti.
+Vous gagnerez également de précieux poiq-nts supplémentaires en battant des ennemis.
+Utilisez l'idole noire pour redémarrer plus rapidement ou pour retourner au menu principal.
 
-Il y aura du fanservice si vous doué !
-Bonne chance!
-Ramassez plusieurs médailes d'affiler augmentera leur valeurs.
+Il y aura du fanservice si vous êtes doué·e !
+Bonne chance !
+Ramassez plusieurs médailles d'affiler augmentera leur valeur.
 Souvenez-vous de ce désir profond.
 Vous êtes donc finalement arrivé jusqu'ici.
 Je pensais que cette dernière énigme était impossible.
@@ -306,7 +306,7 @@ Je pensais que cette dernière énigme était impossible.
 Peut-être que je me suis trompé.
 
 Bien sûr, je m'attendais à ce que quelqu'un finisse par trouver cet endroit.
-Sinon, je ne serais pas ici
+Sinon, je ne serais pas ici.
 
 
 
