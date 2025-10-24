@@ -11,6 +11,10 @@ var str="";
 // 80
 if (str != "")
 {
+    if (global.script_array[global.language][0] == "FR")
+    {
+        str = string_insert("\u00A0", str, 2);
+    }
     draw_set_halign(fa_center);
     draw_set_valign(fa_top);
     if (string_height_ext(str, string_height(global.text_font), 220) == string_height(global.text_font))
