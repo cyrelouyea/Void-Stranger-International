@@ -117,7 +117,7 @@ Que faire.
 Personne ne peut tromper la mort.
 Mais il y a une astuce que vous pourriez essayer.
 Si vous mangez quelque chose ici, vous ferez partie de ce royaume.
-Vous pourrez alors parcourir ces couloirs à votre guise.
+Vous pourrez alors parcourir ces salles à votre guise.
 Il se trouve que j'ai justement ce fruit avec moi.
 Voulez-vous le manger ?
 
@@ -179,7 +179,7 @@ OPENING CHESTS
 [Il y a une note à l'intérieur]
 [On peut y lire :]
 J'ai glissé quelques-unes de tes friandises préférées.
-Prends-en quand tu te sens déprimé.
+Prends-en quand tu te sens déprimée.
 Et s'il te plaît, ne le dis pas à ma sœur.
 Ça sera notre petit secret ! -Bee
 [Ce message n'a pas beaucoup de sens pour vous]
@@ -222,14 +222,14 @@ Dégage. -Bee
 [C H A N C E U S E !]
 
 [Dommage que vous ne pouvez pas en prendre plus...]
-[Alors que vous essayez de les replacer là ou vous les avez trouvé. Elles s'effritent en poussière]
+[Alors que vous essayez de les replacer là où vous les avez trouvées. Elles s'effritent en poussière]
 [... Quelle perte de temps]
 [Dommage que vous ne pouvez pas en prendre plus...]
-[Alors que vous essayez de les replacer là ou vous les avez trouvé. Elle s'effrite en poussière]
+[Alors que vous essayez de la replacer là ou vous l'avez trouvée. Elle s'effrite en poussière]
 [Elle a un goût de sciure]
 [Elles ont un goût de sciure]
 [... Pourquoi vous les ramassez déjà ?]
-[... Une autre ...]
+[... Une autre...]
 [Vous avez trouvé les ailes d'Add]
 [...]
 [Mieux vaut les laisser]
@@ -497,15 +497,15 @@ Dégage. -Bee
 
 
 TRIAL: INTRODUCTION
-´´À cause de ces défauts, et pour aucun autre mal, nous sommes maintenant perdus et punis uniquement pour cela :´´
-´´Nous n'avons aucun espoir et pourtant nous vivons dans le manque.´´
+´´Pour ces choses qui nous ont manqué, non pour autre crime, nous sommes perdus, et notre seule peine est celle-ci : ´´
+´´Nous vivons dans le désir sans espérance.´´
 ZERO Judge.
 
 ZERO Prosecutor.
 
 ZERO Defense !
 
-La Cours du Vide, ZERO JUSTICE, est maintenant en session.
+La Cour du Vide, ZERO JUSTICE, prend séance maintenant.
 
 Procureur, vous pouvez commencer.
 
@@ -514,14 +514,14 @@ TRIAL: CHEATING DEATH
 La maudite a trompé la mort à de nombreuses reprises.
 Nous devons déterminer comment la maudite à réussi un tel exploit.
 Quoi qu'il en soit, cela semblait clairement intentionnel.
-Nous proposons que la maudite soit punies en conséquences.
+Nous proposons que la maudite soit punie en conséquence.
 
 Un instant ! La défense intervient !
 As-tu des preuves ?
 Tromper la mort me semble assez difficile.
 Est-ce seulement possible ?
 En tout cas, je n'aurais pas envie de le faire.
-Non pas que je puisse mourir, bien sûr..
+Non pas que je puisse mourir, bien sûr.
 
 Nous l'avons tous vu, espèce d'imbécile.
 Rien n'échappe à la Cour du Vide.
@@ -631,7 +631,7 @@ La maudite a accumulé à plusieurs reprises des Idoles de Sauterelles.
 Ces idoles sacrées font partie de l'héritage du Seigneur Add.
 Une simple mortelle qui oserait les altérer...
 La seule idée est répugnante.
-Nous proposons que la maudite soit punies en conséquences.
+Nous proposons que la maudite soit punie en conséquence.
 
 Hum, notre procureur n'a-t-il jamais entendu parler du vieil adage :
 ´´Qui trouve garde´´ ?
@@ -803,7 +803,7 @@ Les parois de ces branes sont impénétrables.
 Une mortelle ne devrait pas pouvoir s'en échapper.
 Mais ne vous méprenez pas.
 Cette transgression reste extrêmement grave.
-Nous proposons que la maudite soit puni en conséquence.
+Nous proposons que la maudite soit punie en conséquence.
 
 Oh, allez.
 Cette tranchée n'en finit jamais de toute façon.
@@ -903,8 +903,8 @@ Où suis-je ?
 Vous m'entendez ?
 J'ai du mal à bouger.
 Ne me faites pas peur.
-Maman...
-Papa...
+Mère...
+Père...
 Ma sœur, c'est toi ?
 Je ne vois rien.
 Qu'est-ce qui m'arrive ?
@@ -1030,18 +1030,18 @@ Alors que ses agents se retournaient les uns contre les autres, le Vide commenç
 
 La bataille entre les Seigneurs du Vide a fait rage pendant des années...
 Jusqu'à ce qu'il ne reste plus que trois seigneurs intacts...
-Ajoutez-y deux de leurs disciples...
+Add et deux de ses disciples...
 
 Alors que les combats avaient enfin pris fin...
 Quelque chose d'inattendu s'est produit...
-Alors que Vide était encore en ruine, le Seigneur Add est parti...
+Alors que le Vide était encore en ruine, le Seigneur Add est parti...
 
-Pourquoi le Seigneur Add a décidé de quitter Vide...
+Pourquoi le Seigneur Add a décidé de quitter le Vide...
 ... ... ...
-Seuls ces couloirs connaissent la réponse à cette question...
+Seules ces salles connaissent la réponse à cette question...
 
 Ici repose le domaine du premier Seigneur du Vide traître...
-Celle qui fut autrefois l'allié le plus fidèle du Seigneur Add...
+Celle qui fut autrefois l'alliée la plus fidèle du Seigneur Add...
 Que son nom ne vienne plus jamais honorer ces salles...
 
 On dit que c'est le seigneur de cette région qui a déclenché la guerre entre les Seigneurs du Vide...
@@ -1053,8 +1053,8 @@ Le Seigneur Add consuma personnellement tout ce qui restait du seigneur traître
 D'une certaine manière, elles ne firent plus qu'un, comme elles l'avaient toujours espéré...
 
 Malgré ce qui s'était passé, le Seigneur Add n'avait jamais voulu combattre le seigneur traître...
-Elles étaient de bons amies...
-Plus encore que cela...
+Elles étaient de bonnes amies...
+Même plus que cela...
 
 Ici repose le domaine du Seigneur Bee, L'Envie.
 Toujours d'humeur à plaisanter, même parmi les Seigneurs du Vide...
@@ -1065,7 +1065,7 @@ Même si le Seigneur Bee ne pouvait ni goûter quoi que ce soit ni jamais se sen
 Elle chérissait toujours ces petits moments de dégustation...
 
 Le Seigneur Bee se vantait régulièrement de sa cruauté envers les mortels...
-Mais maintenant que j'y pense, je n'ai jamais vus le Seigneur Bee faire de mal à qui que ce soit...
+Mais maintenant que j'y pense, je n'ai jamais vu le Seigneur Bee faire de mal à qui que ce soit...
 À tout le moins, je doute que le Seigneur Bee y prenaient autant de plaisir qu'elle le laissait paraître.
 
 Ce sourire narquois...
@@ -1080,7 +1080,7 @@ Ici repose le domaine du deuxième Seigneur du Vide traître...
 Cette charlatane calculatrice, aveuglée à jamais par sa propre cupidité...
 Que son nom ne vienne plus jamais honorer ces salles...
 
-Le seigneur cupide suivait souvent le seigneur traître...
+Le seigneur avide suivait souvent le seigneur traître...
 Elle était fascinée par leurs écailles...
 Peut-être cette raison fut-elle suffisante pour qu'elle se range du côté du seigneur traître...
 
@@ -1088,15 +1088,15 @@ Ne regardez pas le seigneur avide directement dans les yeux, disait-on autrefois
 Son regard transformait quiconque en or pur...
 Quel terrible destin...
 
-Même le seigneur cupide s'intéressait aux idoles en forme de sauterelles... 
-Mais le cupide ne les mangeait pas, elle aimait simplement les collectionner... 
+Même le seigneur avide s'intéressait aux idoles en forme de sauterelles... 
+Mais l'avide ne les mangeait pas, elle aimait simplement les collectionner... 
 Si vous avez trop de sauterelles, elle viendra sûrement vous en demander en échange de quelque chose...
 
 C'est ici que se trouve le domaine de Seigneur Tan, la Furieuse.
 Leur nature était si féroce que les autres Seigneurs du Vide préféraient ne pas interagir avec elle...
 Hélas, le Seigneur Tan restait seule la plupart du temps...
 
-Bien que rejeté, le Seigneur Tan ne se souciait pas d'être seul...
+Bien que rejetée, le Seigneur Tan ne se souciait pas d'être seule...
 En fait, elle préférait cela...
 Le Seigneur Tan ne s'entendait pas avec les autres...
 
@@ -1104,7 +1104,7 @@ Le Seigneur Tan ne parlait jamais beaucoup...
 Peut-être parce qu'elle n'était pas douée pour ça...
 Elle finissait par s'en prendre à elle-même et se mettre en colère...
 
-Pendant la bataille, le Seigneur Tan était imparable...
+Pendant la bataille, le Seigneur Tan était inarrêtable...
 Même lorsque les combats se sont calmés, sa rage ne s'est pas apaisée...
 Le Seigneur Add n'avait donc d'autre choix que de tuer son alliée...
 
@@ -1112,7 +1112,7 @@ Ici repose le domaine du troisième Seigneur du Vide traître...
 Dont la faible apathie n'a d'égale que son indécision...
 Que son nom ne vienne plus jamais honorer ces salles...
 
-Le seigneur faible ne montrait aucun intérêt pour les événements de Void...
+Le seigneur faible ne montrait aucun intérêt pour les événements du Vide...
 Elle se contentait de remplir son rôle sans aucun enthousiasme...
 Juste pour que les autres seigneurs ne la dérangent pas...
 
@@ -1124,7 +1124,7 @@ Le Seigneur Add frappa le seigneur faible, qui, bien que grièvement blessé, ne
 Mais Ne croyez pas que ce fut un acte de miséricorde...
 Car le seigneur faible ne pouvait pas pourrir...
 
-Ici repose le domaine du Seigneur Lev, le Fourbe...
+Ici repose le domaine du Seigneur Lev, la Fourbe...
 La vassale sans amour du Vide...
 Son dévouement rivalisait même avec celui du Seigneur Add...
 
@@ -1132,12 +1132,12 @@ La puissance du Seigneur Lev était si redoutable...
 Que rares étaient les pécheurs qui échappaient à son jugement...
 Pour contempler les profondeurs ultimes du Vide...
 
-Le Seigneur Lev a toujours été loyal envers Le Seigneur Add...
-Même lorsque la bataille les a opposés à leurs propres sœurs...
-...Le Seigneur Lev a toujours été loyal envers le Seigneur Add...
+Le Seigneur Lev a toujours été loyale envers le Seigneur Add...
+Même lorsque la bataille les a opposées à leurs propres sœurs...
+...Le Seigneur Lev a toujours été loyale envers le Seigneur Add...
 
 La mort de leur sœur a laissé le Seigneur Lev dans un tel état de désarroi...
-Que le Seigneur Lev, qui avait toujours été inébranlable dans leur dévouement...
+Que le Seigneur Lev, qui avait toujours été inébranlable dans son dévouement...
 A mis fin à ses jours...
 
 Ici repose le domaine du Seigneur Cif, la Dernière...
@@ -1167,13 +1167,13 @@ Tu es ma petite lumière.
 Tu es ma fierté.
 Et ton nom sera...
 
-Je ne me souviens pas de ces couloirs...
-Qui les a construits...
-Que cachent-ils...
+Je ne me souviens pas de ces salles...
+Qui les a construites...
+Que cachent-elles...
 
 Ces idoles insignifiantes...
 Ce regard avide...
-Comment ont-ils survécu...
+Comment a-t-elle survécu...
 
 La marque du Seigneur Cif...
 Ne t'inquiète pas, elle a déjà été gravée...
@@ -1189,7 +1189,7 @@ Sans fin.
 Vous avez bien fait de trouver votre chemin jusqu'ici...
 Identifier les marques n'est que la première étape...
 Réfléchissez à ´´où´´ vous pouvez les dessiner...
-C'est ainsi que vous plierez ces couloirs à votre volonté...
+C'est ainsi que vous plierez ces salles à votre volonté...
 
 La valeur de la brane est volatile...
 Mais tant que vous ne manipulez que les deux derniers chiffres...
@@ -1230,7 +1230,7 @@ Seul un simple souvenir restera.
 [Il semble presque impossible de déchiffrer ses inscriptions...]
 [Une faible et étrange lueur projette des rayons de lumière à travers les fissures.]
 
-[La fresque s'effrita, révélant une petite niche remplie de...]
+[La fresque s'effrite, révélant une petite niche remplie de...]
 [... Qu'est-ce que c'est ?]
 
 ONLYAMEMORYREMAINS
@@ -1261,7 +1261,7 @@ Brille fort, ma chérie.
 [Vous ne parvenez pas à les déchiffrer pour une raison quelconque]
 [Peut-être y a-t-il une perturbation au niveau du récepteur EPR de votre unité esclave]
 [Vous pouvez distinguer certaines inscriptions, mais...]
-[Le DIS continue de nous échapper]
+[DIS continue de nous échapper]
 [Les caractères restants n'ont aucun sens et sont totalement incompréhensibles]
 [Un sceau brisé]
 [Un sceau étrange]
@@ -1270,8 +1270,8 @@ Brille fort, ma chérie.
 [Le sceau s'est effondré]
 [...Qu'est-ce qui vous a poussé à le frapper ?]
 
-[Vous avez beau essayer, la boîte ne s'ouvre pas.]
-[D'étranges ficelles ornent la boîte, suspendues de nulle part...]
+[Vous avez beau essayer, le coffre ne s'ouvre pas.]
+[D'étranges ficelles ornent le coffre, suspendues de nulle part...]
 
 [L'étrange bâton a changé de forme]
 [Et d'une manière ou d'une autre...]
@@ -1308,7 +1308,7 @@ S'il vous plaît, dépêchez-vous !
 Prenez soin de la princesse, Dame Gray...
 Pardonnez-moi, Dame Gray.
 Je n'ai pu que m'enfuir.
-Comment pourrai-je faire face à Sa Majesté après cela ?
+Comment pourrai-je faire face à Sa Majesté le roi après cela ?
 
 [Vous ne pouvez pas partir maintenant]
 [L'air est chargé de menaces]
@@ -1319,7 +1319,7 @@ Prépare-toi à mourir.
 [Vous donnez un coup à la princesse]
 [Vous renforcez votre détermination !]
 [Une des nombreuses crises de colère de la princesse]
-[Vous êtes tombé]
+[Vous êtes vaincue]
 [La colère de la princesse pèse sur vous]
 [La colère de la princesse vous méprise]
 [La colère de la princesse se déchaîne !]
@@ -1327,7 +1327,7 @@ Prépare-toi à mourir.
 [La colère de la princesse se prépare à une attaque totale !]
 [La colère de la princesse devient incontrôlable !]
 [La colère de la princesse est épuisée... C'est ta chance !]
-[La colère de la princesse est trop lassée pour continuer...
+[La colère de la princesse est trop lassée pour continuer...]
 ATTAQUER
 DÉFENDRE
 OBSERVER
@@ -1379,7 +1379,7 @@ Je parie que tu as triché !
 Allons, Votre Altesse.
 Une telle amertume ne sied pas à une dame de votre rang.
 ...
-Très bien, vous pouvez avoir celui-ci.
+Très bien, on va dire que tu as gagné.
 Quelle générosité de votre part, Votre Altesse.
 Va te faire voir.
 ...
@@ -1390,7 +1390,7 @@ Agenouillez-vous devant moi, mes malheureux sujets !
 ...
 Vous pouvez déjà vous lever.
 Eh bien, j'ai dû y aller doucement avec vous, Votre Altesse.
-Je suis ravi de vous voir de si bonne humeur.
+Je suis ravie de vous voir de si bonne humeur.
 Tais-toi.
 ...
 
@@ -1415,7 +1415,7 @@ Attention à votre langage.
 Désolée, je voulais dire ´´foutu´´.
 ...
 Vous ne pouvez pas continuer à jouer à vos jeux puérils éternellement.
-Ce pays attend beaucoup de vous, tout comme Sa Majesté.
+Ce pays attend beaucoup de vous, tout comme Sa Majesté le roi.
 Cela ne m'intéresse pas.
 Et si nous quittions le navire et nous nous enfuyions !
 Juste toi et moi !
@@ -1429,7 +1429,7 @@ Alors qu'est-ce que c'est ?!
 Le monde est bien plus grand que nous deux.
 Nous devons être capables de mettre de côté nos petits désirs et besoins...
 Afin d'assumer nos responsabilités.
-Je suis sûr que vous comprenez cela, Votre Altesse.
+Je suis sûre que vous comprenez cela, Votre Altesse.
 ...
 Non.
 Non, je ne comprends vraiment pas.
@@ -1440,7 +1440,7 @@ Essayons de mettre de l'ordre dans vos cheveux.
 Mais après ça, on aura droit à une revanche ! 
 C'est ce qu'on verra. 
 Vous avez vraiment besoin d'un bain. 
-Surveillez votre langage !
+Surveille tes paroles !
 
 ... Pathétique. 
 Tu te bats comme une vache. 
@@ -1501,7 +1501,7 @@ C'est absurde !
 Je vous en prie, Votre Majesté, je vous implore de vous calmer.
 Me calmer ?
 Cette maudite fille est en train de mener ce royaume à sa perte...
-Et vous me demandez de me calmer ?!
+Et vous me demandez de ME calmer ?!
 L'impatience ne mènera à rien de bon, Votre Majesté.
 Oh, j'ai été patient avec elle. 
 Plus que vous ne pouvez l'imaginer.
@@ -1542,8 +1542,8 @@ Ah oui, j'avais oublié.
 Tu n'es plus que le toutou du roi ces derniers temps.
 ...
 ... !
-J-Je suis désolé.
-J-Je suis allé trop loin.
+J-Je suis désolée.
+J-Je suis allée trop loin.
 ...
 En tant que dame d'honneur, ma loyauté va à ce royaume et à son souverain. 
 Mais en tant qu'amie, je suis toujours de votre côté.
@@ -1558,7 +1558,7 @@ Essayez de vous reposer cette nuit, Votre Altesse.
 
 
 Encore vous, étrangère...
-Vous êtes tombé ici par accident...
+Vous êtes tombée ici par accident...
 Peu importe...
 Ne vous mettez pas en travers de mon chemin...
 Le chemin devient plus étroit...
@@ -1568,7 +1568,7 @@ Et vous, étrangère...
 Hum...
 Vous ne savez pas quand abandonner, n'est-ce pas...
 Faites comme vous voulez...
-Mais vous êtes complètement dépassé...
+Mais vous êtes complètement dépassée...
 Est-ce que c'est censé être un défi...
 Je vais juste...
 ...
@@ -1605,7 +1605,7 @@ Je ne mords pas.
 Vous êtes une petite courageuse.
 D'habitude, ceux de votre espèce restent loin quand ils me voient.
 Mais je ne vous veux aucun mal, j'ai juste une mauvaise vue et une mauvaise ouïe.
-Enchanté.
+Enchantée.
 Je m'appelle Tail. 
 
 Mes écailles me disent que vous n'êtes pas une âme perdue ordinaire.
@@ -1643,13 +1643,13 @@ Lorsque le Vide était encore en pleine mutation, lorsque les huit Seigneurs du 
 L'un d'entre eux, nommé Eus, régnait sur ce royaume particulier.
 Ils étaient chargés de garder les portes et de juger les âmes perdues qui arrivaient ici.
 Aucune âme ne pouvait échapper à son jugement, aucun péché ne restait impuni.
-Mais malgré sa vigilance et sa rigueur, Eus était fasciné par le péché.
-Cette fascination grandit jusqu'à ce qu'Eus commette l'impensable et pèche lui-même.
+Mais malgré sa vigilance et sa rigueur, Eus était fascinée par le péché.
+Cette fascination grandit jusqu'à ce qu'Eus commette l'impensable et pèche elle-même.
 Je ne sais pas exactement quelle était l'étendue de son péché.
 Lorsque les autres seigneurs apprirent cette transgression, leurs rangs se divisèrent.
-Certains défendirent Eus, d'autres le vilipendèrent.
+Certains défendirent Eus, d'autres la vilipendèrent.
 Les disputes se transformèrent rapidement en bagarre, puis en combats acharnés.
-Finalement, Eus fut dévoré jusqu'à ce qu'il n'en reste plus rien.
+Finalement, Eus fut dévorée jusqu'à ce qu'il n'en reste plus rien.
 Une partie d'Eus réussit toutefois à s'échapper discrètement.
 Elle resta silencieuse, consommant sans réfléchir toutes les âmes errantes qui s'approchaient d'elle.
 Elle ne connaissait que la douleur et la faim.
@@ -1658,7 +1658,7 @@ Elle se mit à réfléchir à la raison pour laquelle aucune quantité d'âmes p
 Pourquoi elle était incapable de quitter ces murs.
 Pourquoi elle avait le droit de vivre.
 Finalement, elle accepta son existence pourrie, sachant bien qu'aucune de ses questions ne trouverait jamais de réponse.
-C'est ainsi que je suis né.
+C'est ainsi que je suis née.
 ...
 
 Merci. 
@@ -1752,7 +1752,7 @@ Et achetez-vous de nouveaux vêtements pendant que vous y êtes !
 Pourquoi moi... 
 Pourquoi c'est toujours moi...
 ... Vous êtes toujours là ?  
-Désolé.  
+Désolée.  
 C'est juste que...  
 J'ai beaucoup à faire en ce moment.  
 
@@ -1761,10 +1761,10 @@ Une grande cérémonie avec beaucoup d'invités, comme dans un conte de fées.
 J'étais vraiment impatiente après tous les efforts que nous avions fournis.
 Il nous a fallu tout un week-end rien que pour préparer les invitations.
 Puis le jour J est enfin arrivé.
-Et mon futur mari était là, qui m'attendait devant l'autel.
+Et mon futur mari était là, m'attendant devant l'autel.
 Et moi...
 Je me suis enfuie.
-Je n'ai pas pu lui faire ça.
+Je ne pouvais pas lui faire ça.
 Je suis tellement stupide.
 
 J'espérais que tout cela ne soit qu'un mauvais rêve. 
@@ -1773,7 +1773,7 @@ S'il vous plaît, dites-moi.
 Suis-je punie ? 
 Est-ce ma punition ?
 [Incapable de trouver les mots pour la réconforter...]
-[Vous restez silencieux]
+[Vous restez silencieuse]
 Ne me laissez pas ici, s'il vous plaît. 
 Je vous en prie. 
 Je ne veux pas mourir.
@@ -1783,7 +1783,7 @@ Je ne veux pas mourir.
 Qu'est-ce que c'est que ça ?! 
 Arrêtez ça !
 
-Arrêtez ça je t'ai dit !
+Arrêtez ça je vous ai dit !
 [Un regard assassin]
 
 [Elle est complètement en colère]
@@ -1814,7 +1814,7 @@ Ne me demandez pas comment je le sais...
 
 Alors, quelque chose de bien s'est-il produit ?...
 Je me demande si cette astuce fonctionne aussi avec d'autres coffres...
-Et si vous ne la testiez pas pour moi...
+Et si vous la testiez pour moi...
 S'il vous plaît...
 
 Alors, vous pouvez m'entendre...
@@ -1829,22 +1829,22 @@ Je suppose que je ne suis plus utile ici...
 *Soupir*...
 
 Vous avez de belles ailes...
-Essayez simplement de ne pas forcer les choses lorsque vous flottez dans les airs...
+Essayez simplement de ne pas pousser des choses lorsque vous flottez dans les airs...
 Vous pourriez le regretter...
 
 Vous cherchez la marque du Seigneur... ?
 La queue du seigneur traître relie la marque...
-Du moins, quand ils étaient encore en vie...
+Du moins, quand il était encore en vie...
 Même si je ne sais pas trop comment cela fonctionne...
 
 (...)
-(J'en ai tellement marre d'entendre ce genre de choses...)
+(J'en ai tellement marre d'écouter ces choses...)
 
 Dans la septième pièce, juste un pas de plus après la sortie...
 Trois sangsues errent, l'une d'elles est complètement hors d'atteinte... Tombez derrière le coffre...
 Un coffre vide suspect entouré de rien, inspectez-le une fois de trop...
 Des sourires insatiables t'entourent, brisez tous les sols en verre avant de tomber...
-Rien d'autre qu'une route droite, prenez la chute avant votre reflet...
+Rien d'autre qu'une route droite, tombez avant votre reflet...
 
 Ksi shi shi shi...
 Étrangère... 
@@ -1902,7 +1902,7 @@ On est bientôt arrivés ?
 N'essaie pas de me tromper.
 Je sais que tu ne dors pas vraiment.
 
-Si vous n'étiez pas si impatient, je pourrais peut-être me reposer un peu, Votre Altesse. 
+Si vous n'étiez pas si impatiente, je pourrais peut-être me reposer un peu, Votre Altesse. 
 Il fait un froid glacial ici !
 Quel genre de fou vit dans un pays comme celui-ci ? 
 Votre Altesse, ce pays n'est pas si différent du vôtre. 
@@ -1953,11 +1953,11 @@ Cependant, vous vous trompez lourdement si vous pensez que je n'ai plus aucune o
 Vraiment ?
 Et quelles seraient ces options ?
 
-Je pourrais te laisser vivre.
+Je pourrais vous laisser vivre.
 ...Qu'est-ce que-
 
-[Gray la Destructrice se dresse devant toi] 
-[Gray la Destructrice t'évalue] 
+[Gray la Destructrice se dresse devant vous] 
+[Gray la Destructrice vous évalue] 
 [Vous avez commis une grave erreur] 
 G : Je vous donne trois tours.
 
@@ -1965,8 +1965,8 @@ G : Je vous donne trois tours.
 B : Bande de lâches !
 B : Couvrez-moi, bande d'imbéciles !
 [Vous brandissez votre épée vers l'ennemi]
-B : Prends ça, vieille sorcière !
-[Gray le Destructeur bondit sur vous]
+B : P-Prends ça, vieille sorcière !
+[Gray la Destructrice bondit sur vous]
 G : Eins.
 G : Zwei.
 G : Drei.
@@ -2104,7 +2104,7 @@ Est-il vraiment un roi ?
 Il est bien trop cool pour ça !
 Veuillez vous calmer un peu, Votre Altesse.
 La journée a été longue pour vous.
-Je sais, mais je suis trop excité pour dormir...
+Je sais, mais je suis trop excitée pour dormir...
 Hé, tu crois que je vais pouvoir rencontrer Johann demain ?
 Peut-être qu'il me montrera comment faire ce sort de foudre !
 Une telle magie ne doit pas être utilisée à la légère, Votre Altesse.
@@ -2122,7 +2122,7 @@ J’espère que Son Altesse va mieux ?
 Elle s’est enfin endormie.
 Elle a dû être épuisée après tout ça.
 Mais pas d’inquiétude, Monseigneur.
-Elle n'est pas du genre a être effrayer facilement.
+Elle n'est pas du genre à être effrayée facilement.
 Bien que vous ayez visiblement fait forte impression sur elle, Monseigneur.
 Je vous en prie, appelez-moi Johann.
 Je ne suis pas vraiment un homme de grands titres.
@@ -2202,8 +2202,8 @@ MEETING WITH NOMAD
 Toujours rien...
 Oh, je ne vous avais pas remarqué.
 Je ne m'attendais pas à croiser quelqu'un d'autre ici.
-Vous êtes aussi chasseur de trésor ?
-...Attendez.
+Vous êtes aussi chasseuse de trésor ?
+... Attendez.
 Ce bâton ne ressemble pas à quelque chose que l'on transporte habituellement.
 Je parie que vous l'avez trouvé ici, n'est-ce pas ?
 Puis-je le regarder de plus près ?
@@ -2212,7 +2212,7 @@ Ne vous inquiétez pas, je suis experte dans le maniement de ce genre d'objets.
 [Alors que vous commencez à répondre, la femme s'empare soudainement de votre bâton !]
 
 Zut, pourquoi ce truc ne marche-t-il pas ?
-...Oh, encore vous.
+... Oh, encore vous.
 Pardonnez-moi, je vous en prie !
 Je sais que je n'aurais pas dû faire ça, mais je n'avais pas le choix.
 Mon vieux père est très malade et les médicaments dont il a besoin coûtent une petite fortune et...
@@ -2220,7 +2220,7 @@ Ne pouvez-vous pas trouver la force de me pardonner ?
 [...]
 ...
 [...]
-...Quelque chose me dit que vous n'y croyez pas.
+... Quelque chose me dit que vous n'y croyez pas.
 Très bien.
 Je sais quand je suis au bout du rouleau.
 Tenez, reprenez ça.
@@ -2239,7 +2239,7 @@ Je n'en vois pas vraiment l'utilité, mais peut-être apprécierez-vous le geste
 
 Cet endroit est absolument gigantesque.
 Je n'ai jamais vu de ruines comme celles-ci...
-Mais je suis sûr que si je m'aventure suffisamment loin, je pourrai dénicher un butin spectaculaire.
+Mais je suis sûre que si je m'aventure suffisamment loin, je pourrais dénicher un butin spectaculaire.
 Comme on dit, qui trouve garde.
 ...Et non, je ne vous volerai pas à nouveau.
 Occupez-vous de vos affaires et je ferai de même.
@@ -2255,11 +2255,11 @@ Laissez-moi reprendre mon souffle un instant.
 [C'est mieux ainsi]
 
 Hé, calmez-vous !
-J'ai dit que j'étais désolé, d'accord ?
+J'ai dit que j'étais désolée, d'accord ?
 Arrêtez maintenant !
 
 Vous avez réussi à faire fonctionner ce bâton ?
-Oui, je vous ai vu le manier tout à l'heure.
+Oui, je vous ai vue le manier tout à l'heure.
 Dommage que je n'ai pas pu l'utiliser.
 Il aurait pu être très utile pour pi-
 ...Je veux dire, pour fouiller ces ruines.
@@ -2328,7 +2328,7 @@ Peut-être.
 Mais nous nous aventurons en terrain inconnu et je préfère prévenir que guérir.
 Qu'est-ce que cela signifie ?
 L'amour, Votre Altesse.
-Tais-toi, vieille sorcière !
+T-Tais-toi, vieille sorcière !
 
 Votre Altesse !
 C'est le Seigneur Johann !
@@ -2424,7 +2424,7 @@ Bien sûr que si !
 C'est une blague !
 Tu comprends ?
 Ou tes grosses cornes t'ont-elles privé de tout sens de l'humour ?
-...Désolé, c'est vrai.
+...Désolée, c'est vrai.
 Tu n'en avais pas au départ !
 
 ... Pourquoi tu ramènes toujours la conversation sur mes cornes ? 
@@ -2452,15 +2452,15 @@ MEETING WITH CHILD
 Qu'est-ce que tu regardes ?
 
 Tu es un de ces pervers ?
-[Tu lui dis que tu ne lui feras pas de mal]
+[Vous lui dites que vous ne lui ferez pas de mal]
 Je...
 Je n'ai pas peur de toi.
 Laisse-moi tranquille.
 
-[La fille fait la moue, t'ignorant]
-[... Elle te regarde furtivement, mais détourne rapidement les yeux]
+[La fille fait la moue, vous ignorant]
+[... Elle vous regarde furtivement, mais détourne rapidement les yeux]
 
-[Tu essaies de la réconforter]
+[Vous essayez de la réconforter]
 Tu te prends pour qui, ma mère ?
 Laisse-moi tranquille...
 
@@ -2470,7 +2470,7 @@ J'ai dit laisse-moi tranquille !
 
 C'est quoi ce bordel ?!
 Arrête, bon sang !
-[La fille essaie de t'ignorer]
+[La fille essaie de vous ignorer]
 
 
 
@@ -2506,12 +2506,12 @@ Nous proposons que la maudite soit punie en conséquence.
 Qu'est-ce que c'est que ça ?
 Notre défense est-elle à court d'arguments ?
 Ce serait une première.
-J'ai été distrait par tes grosses cornes, c'est tout.
+J'ai été distraite par tes grosses cornes, c'est tout.
 Quoi qu'il en soit...
 ... ... ...
 ...
 Ne me dis pas que tu n'as préparé aucune déclaration.
-Désolé, j'ai encore été distrait. 
+Désolée, j'ai encore été distraite. 
 
 Quoi qu'il en soit, au moins elle n'a pas abandonné, n'est-ce pas ?
 Je suis en fait plutôt curieuse de voir jusqu'où elle peut aller comme ça.
@@ -2549,15 +2549,15 @@ Elles sont tout simplement désespérantes.
 DREAM VI
 Cet endroit est-il assez grand ?
 Il semble un peu exigu.
-Je suis sûr que cela suffira pour nos besoins, Votre Altesse.
+Je suis sûre que cela suffira pour nos besoins, Votre Altesse.
 À moins que vous ne préfériez la grande salle de bal ?
 Certainement pas !
-Je ne veux pas que Johann fasse irruption pendant que nous, vous savez...
-Si seulement vous aviez été aussi enthousiaste quand vous étiez plus jeune, nous ne serions pas si pressés.
+Je ne veux pas que Johann fasse irruption pendant que nous, tu sais...
+Si seulement vous aviez été aussi enthousiaste quand vous étiez plus jeune, nous ne serions pas si pressées.
 Eh bien, c'est maintenant ou jamais !
-Alors arrêtez de jacasser et passez à l'action !
+Alors arrête de jacasser et passe à l'action !
 Bien sûr, Votre Altesse.
-Et vous feriez mieux de tenir votre promesse !
+Et tu ferais mieux de tenir notre promesse !
 Oui, oui.
 Pas de plaisanteries.
 Bien.
@@ -2579,7 +2579,7 @@ Pour une première fois, en tout cas...
 Votre Altesse a un don !
 
 Vous y arrivez, Votre Altesse...
-(Je plains déjà les orteils de Lord Johann...)
+(Je plains déjà les orteils de Seigneur Johann...)
 
 (Vous...)
 (Vous n'êtes pas en train de vous moquer de moi, petite morveuse... ?)
@@ -2590,14 +2590,14 @@ Gray.
 Oui, Votre Altesse ?
 C'est presque étrange de te voir danser.
 Pourquoi donc ?
-Je suis plus habitué à te voir donner des coups de pied et des coups de poing.
+Je suis plus habituée à te voir donner des coups de pied et des coups de poing.
 Où as-tu appris à danser comme ça ?
 Ou tu ne t'en souviens pas non plus ?
 Oh, je m'en souviens très bien.
 J'avais à peu près votre âge.
 Tout ce que je savais à l'époque, c'était... 
 Donner des coups de pied et des coups de poing, comme vous dites.
-J'étais donc plutôt inquiet au début.
+J'étais donc plutôt inquiète au début.
 Heureusement, j'avais une bonne professeure.
 Hmm ?
 Sa Majesté, bien sûr. 
@@ -2605,11 +2605,11 @@ Sa Majesté, bien sûr.
 Je suis désolé, Votre Altesse.
 C'était très maladroit de ma part.
 Ne t'inquiète pas, Gray.
-Je ne me souviens de rien concernant ma mère de toute façon.
+Je ne me souviens de rien concernant mère de toute façon.
 Et pourtant...
 Dans des moments comme celui-ci, j'aimerais qu'elle soit encore là.
 ...
-Je suis sûr qu'elle vous regarde depuis les étoiles bénies, Votre Altesse.
+Je suis sûre qu'elle vous regarde depuis les étoiles bénies, Votre Altesse.
 Surtout maintenant que votre grand jour n'est plus qu'à quelques semaines.
 ... Tu le penses vraiment ?
 Vous lui ressemblez de plus en plus chaque année qui passe.
@@ -2690,10 +2690,10 @@ Ils n'ont cessé de mendier de la nourriture jusqu'à ce que je cède, et mainte
 Ce sont les pires, si vous voulez mon avis...
 ... Ne me regarde pas comme ça.
 Je ne peux rien faire pour eux...
-Hé, rends-nous service à tous les deux...
+Hé, rends-nous service à toutes les deux...
 Et donne-leur un bon coup de coude.
-Je suis sûr que vous vous y êtes habitué maintenant.
-Puisque vous êtes arrivé jusqu'ici sans perdre la tête...
+Je suis sûre que vous vous y êtes habituée maintenant.
+Puisque vous êtes arrivée jusqu'ici sans perdre la tête...
 
 Allez-y.
 Sans rancune.
@@ -2717,13 +2717,13 @@ Très bien, étrangère.
 J'ai une requête à vous faire.
 Voulez-vous l'entendre ?
 
-[Vous décidez d'écouter leur requête]
+[Vous décidez d'écouter sa requête]
 C'est au Seigneur Add que je dois ma situation actuelle.
 Il y a longtemps, elle et les autres Seigneurs se sont livrés à une grande bataille.
-Je ne voulais pas m'en mêler, mais j'ai été entraîné malgré moi.
+Je ne voulais pas m'en mêler, mais j'ai été entraînée malgré moi.
 Pour me punir, Add m'a coupé le corps.
 Alors quand j'ai appris qu'elle avait quitté ce royaume, j'ai perdu tout espoir.
-Car seul elle pouvait m'accorder le repos éternel.
+Car seule elle pouvait m'accorder le repos éternel.
 Une rumeur disait qu'Add avait caché ses trésors dans ces murs avant de partir, mais je ne pouvais m'y résoudre à y croire...
 Jusqu'à ce que vous arriviez.
 Je veux que vous trouviez l'épée d'Add, la Lame du Vide.
@@ -2738,7 +2738,7 @@ Assurez-vous de bien la mémoriser :
 ...Là où le chemin vers la damnation repose en vous...
 ...Placez votre foi et embrassez le Vide.´´
 
-[Elle s'est rendormis... ?]
+[Elle s'est rendormie... ?]
 
 Vous trouvez ça louche ?
 Faites ce que vous voulez, tant que vous arrêtez de m'embêter avec vos problèmes...
@@ -2751,8 +2751,8 @@ Je pourrai enfin me reposer...
 HEINNNNNNNNNNNNN ?!
 
 Comment ça, vous n'en avez aucune idée ?!
-Vous pouvez utiliser la Baguette du Vide, non ?
-J'avais bon espoir..
+Vous pouvez utiliser le Bâton du Vide, non ?
+J'avais bon espoir...
 .... Pour rien ?!
 ...
 Peu importe.
@@ -2806,8 +2806,8 @@ me tuer...
 Quoi ?
 Vous ne voulez pas me tuer ?
 ...
-Désolé, j'aurais dû savoir que vous, les mortels, prenez la mort très au sérieux.
-Je suis juste fatigué d'être en vie.
+Désolée, j'aurais dû savoir que vous, les mortels, prenez la mort très au sérieux.
+Je suis juste fatiguée d'être en vie.
 Encore plus depuis que mon corps a été emporté.
 Et comme cet endroit ne fonctionne presque plus...
 Je n'ai plus aucune raison d'être ici.
@@ -2827,7 +2827,7 @@ Cela ne devrait pas demander beaucoup de force.
 
 Attendez.
 C'est peut-être une question stupide...
-Mais êtes-vous déjà mort ?
+Mais êtes-vous déjà morte ?
 Comment c'est, mourir ?
 J'ai entendu dire que vous, les mortels, croyez en la réincarnation ou quelque chose comme ça.
 Est-ce que cela m'arrivera aussi ?
@@ -2852,7 +2852,7 @@ Tu ne chercherais pas la grosse tête par hasard ?
 Je viens juste de m'en débarrasser. 
 Oh, ne te méprends pas.
 Elle n'est pas morte.
-Je ne pourrais pas tuer cet paresseuse même si j'essayais.
+Je ne pourrais pas tuer cette paresseuse même si j'essayais.
 En plus...
 La mort serait bien trop douce pour quelqu'un qui divulgue librement nos secrets.
 Oui.
@@ -2861,7 +2861,7 @@ Crois-moi, si ça ne tenait qu'à moi...
 TU SERAIS DÉJÀ MORTE.
 Tu peux t'estimer chanceuse pour l'instant.
 Mais qui sait... 
-Au final, tu finiras peut-être par souhaiter être mort quand même.
+Au final, tu finiras peut-être par souhaiter être morte quand même.
 À plus !
 
 
@@ -2906,7 +2906,7 @@ Vous avez peur qu'elle ne vous aille plus ?
 Dans ce cas, nous ne pouvons pas faire grand-chose...
 Tais-toi.
 Tu ne m'as pas vue porter ça après les retouches, n'est-ce pas ?
-Tout ce dont j'ai besoin, c'est de ton avis d'expert.
+Tout ce dont j'ai besoin, c'est de ton avis d'experte.
 Et pour m'assurer que rien ne... déborde ou autre.
 ...Tu peux regarder maintenant.
 Alors...
@@ -2950,7 +2950,7 @@ N'est-ce pas ce que vous souhaitiez ?
 Lily vous aime sincèrement.
 Et alors ?
 Ses sentiments n'ont aucune importance.
-Vous êtes déjà arrivé jusqu'ici.
+Vous avez déjà fait tout ce chemin.
 Son Altesse ne s'en rendra jamais compte.
 Après tout, ce n'est qu'une enfant naïve et gâtée...
 
@@ -2969,8 +2969,8 @@ Qu'il en soit ainsi !
 Lily ne mérite pas ça !
 
 Je vous admirais sincèrement...
-Depuis que je vous ai vu vous occuper de ces mercenaires...
-Je savais que vous étiez exceptionnel... 
+Depuis que je vous ai vue vous occuper de ces mercenaires...
+Je savais que vous étiez exceptionnelle... 
 C'est vraiment dommage.
 Malheureusement, mes plans étaient déjà en cours bien avant votre arrivée, et je n'ai vraiment pas le temps pour ça...
 Donc si je ne peux pas avoir ce que je désire...
@@ -3000,7 +3000,7 @@ MEETING WITH MIMIC
 Tu me gênes.
 Je n'ai pas de temps à perdre avec toi.
 S'il te plaît, reste à l'écart.
-Pourquoi tu agis comme ça ?
+Pourquoi es-tu comme ça... ?
 Tu n'as rien de mieux à faire ?
 Pousse-toi.
 Tu bloques le passage.
@@ -3010,7 +3010,7 @@ Il y a un problème ?
 Arrête de jouer avec moi.
 Arrête de me faire perdre mon temps.
 Arrête.
-...Je t'ai déjà vu quelque part ?
+... Je t'ai déjà vu quelque part ?
 Mes yeux sont ici.
 Fais attention où tu marches.
 Quoi ?
@@ -3039,9 +3039,9 @@ Il n'y a pas d'issue.
 C'est impossible.
 ...C'est ce que j'aimerais te dire.
 Comme si cela suffisait à t'arrêter. 
-Crois-moi, je suis bien placé pour le savoir.
+Crois-moi, je suis bien placée pour le savoir.
 
-Tu t'es probablement déjà préparé à cela...
+Tu t'es probablement déjà préparée à cela...
 Les choses ne vont pas devenir plus faciles à partir de maintenant.
 Honnêtement, je ne sais même pas combien il t'en reste...
 Mais tu ne peux pas abandonner. 
@@ -3049,8 +3049,8 @@ Tu n'abandonneras pas.
 Parce que quelqu'un t'attend.
 Tu n'as pas besoin que je te le dise.
 Juste...
-Juste, ne sois pas trop dur avec toi-même.
-Même quand les réponses t'échappent et que tu es prêt à succomber au désespoir...
+Juste, ne sois pas trop dure avec toi-même.
+Même quand les réponses t'échappent et que tu es prête à succomber au désespoir...
 Je crois en toi.
 
 
@@ -3133,9 +3133,9 @@ Vous serez exécutée demain.
 Nous ne voudrions pas gâcher l'ambiance du mariage ou de la cérémonie de couronnement, n'est-ce pas ?
 ...Espèce de vermine...
 Allons, allons.
-Ne sois pas si précipité.
-Mes hommes connaissent bien ta réputation, Gray le Destructeur...
-Je ne pense pas que même toi, tu serais assez effronté pour croire que tu pourrais les affronter tous.
+Ne soyez pas si précipitée.
+Mes hommes connaissent bien votre réputation, Gray la Destructrice...
+Je ne pense pas que même vous, vous seriez assez effrontée pour croire que vous pourriez les affronter tous.
 Je m'en fiche complètement...
 Tant que ta tête roule avec la mienne !
 
@@ -3146,11 +3146,11 @@ Je ferai ce que tu veux.
 Mais ne fais pas de mal à Gray.
 Eh bien...
 Pour une fois, la princesse est la voix de la raison. Quelle agréable surprise.
-Que dites-vous, Gray le Destructeur ?
+Que dites-vous, Gray la Destructrice?
 Rendez-vous sans résistance et je veillerai à honorer le souhait de Son Altesse.
 ...
 Lily.
-...Je suis désolé.
+...Je suis désolée.
 
 Dame Gray !
 Je n'en croyais pas mes yeux quand j'ai vu les gardes vous emmener... !
@@ -3167,9 +3167,9 @@ Même si j'espère que cela ne sera pas nécessaire...
 Je vous en prie, Dame Gray, sauvez Son Altesse et fuyez !
 Vous seule pouvez le faire...
 Vous seule pouvez protéger son bonheur !
-C'est ce que Sa Majesté aurait voulu !
+C'est ce que Sa Majesté la reine aurait voulu !
 
-A couvert.
+À couvert.
 Je vais distraire les gardes.
 
 Oh non !
@@ -3188,7 +3188,7 @@ Sauvez Son Altesse et fuyez !
 Il semble que la dame d'honneur se soit échappée du donjon.
 Gray !
 Votre Altesse, vous allez bien ?
-Je suis désolé, Gray...
+Je suis désolée, Gray...
 Je n'ai rien pu faire...
 Maintenant, tout le monde a... !
 
@@ -3229,14 +3229,14 @@ Même si je n'aime pas trop ça...
 Tout vous expliquer en détail serait bien trop compliqué pour vous.
 Démons, ça ira.
 Je me fiche complètement de votre nom !
-Laissez Sa Majesté en dehors de ça, Johann !
+Laisse Son Altesse en dehors de ça, Johann !
 Il me manque encore une âme, n'est-ce pas ?
 ...C'est exact.
 Il en reste une.
 Que dois-je faire...
 Et si vous m'aidiez à prendre une décision, ma chère dame ?
 Si vous offrez votre âme comme dernière partie de mon sacrifice, je vous promets de laisser votre princesse en vie.
-...Et pourquoi devrais-je vous faire confiance à nouveau ?
+...Et pourquoi devrais-je te faire confiance à nouveau ?
 Parce que vous vous accrocherez à n'importe quel semblant d'espoir pour protéger votre petite princesse.
 Tout comme vous l'avez fait pour me persuader de l'épouser...
 Tais-toi, salaud !
@@ -3257,7 +3257,7 @@ Après toutes ces années...
 ...Tu décides maintenant que tu peux simplement disparaître sans faire de bruit ?!
 Arrête de faire comme si tu allais abandonner !
 ...Maintenant, c'est Son Altesse qui me fait la leçon...
-Comme je suis tombé bas...
+Comme je suis tombée bas...
 Johann.
 Je refuse ton offre.
 Et je ferai en sorte que tu paies pour tout ce que tu as fait.
@@ -3274,7 +3274,7 @@ Mais si DIS l'apprend, tu te débrouilleras toute seule.
 Youpi !
 
 Bonjour !
-Je suis la Seigneur du Vide Bee !
+Je suis le Seigneur du Vide Bee !
 Enchantée.
 Maintenant...
 ON VA FAIRE MONTER LA TEMPÉRATURE, MORTELLE !
@@ -3296,16 +3296,16 @@ Dommage que les choses aient tourné ainsi...
 En tant que futur empereur de ce monde éveillé, j'aurais adoré vous avoir à mes côtés... !
 
 (Merde...)
-(Je suis désolé...)
+(Je suis désolée...)
 (Je n'ai pas pu tenir ma promesse...)
 (Je ne peux qu'espérer que Lily soit en sécurité avec vous... dans l'au-delà...)
 
 Attendez !
 Hé, grosses cornes !
-...Grosses quoi ?
+... Grosses quoi ?
 Je ne comprends pas très bien ce qui se passe...
 Mais si Johann a conclu une sorte de contrat avec vous...
-...je veux en conclure un aussi !
+... Je veux en conclure un aussi !
 Je m'offre à vous !
 Tout ce que je veux, c'est que vous laissiez Gray tranquille !
 
@@ -3326,7 +3326,7 @@ Cette enfant stupide ne comprend même pas le sens du mot ´´dévotion´´... 
 Ce n'est pas à vous d'en juger, substitut.
 ... !
 Êtes-vous certain de cela, Votre Honneur ?
-Le DIS a approuvé ses conditions.
+DIS a approuvé ses conditions.
 Un contrat peut être établi.
 Hoooo !
 Ça devient super intéressant !
@@ -3346,7 +3346,7 @@ DIS considère votre âme... comme invalide.
 Mais si vous souhaitez vraiment la récupérer...
 Retrouvez-nous au bout du Vide.
 Elle vous y attendra... 
-Là, le DIS réévaluera la valeur de votre dévouement.
+Là, DIS réévaluera la valeur de votre dévouement.
 
 Qu'est-ce que...
 Que se passe-t-il...
@@ -3371,7 +3371,7 @@ Alors assure-toi de me le rendre, d'accord ?
 Votre Honneur, notre temps est presque écoulé.
 ...
 Êtes-vous prête, jeune fille ?
-Tu peux en être sûr, tête de fer !
+Tu peux en être sûre, tête de fer !
 Il est temps que je commence à me montrer à la hauteur de mon surnom... !
 Très bien.
 Exécution du protocole DIS dans trois...
@@ -3389,7 +3389,7 @@ Ooh, j'ai oublié de te dire.
 Comme tu n'as pas terminé le sacrifice à temps, ton contrat a été annulé.
 Tu peux donc dire adieu à tes pouvoirs magiques et tout le reste.
 Ce n'est pas drôle, Bee... !
-Il ne m'en manquait qu'un !
+Il ne m'en manquait qu'une !
 Est-ce que j'ai l'air de m'en soucier ?
 De toute façon, j'ai l'impression que c'est le cadet de tes soucis en ce moment...
 À bientôt !
@@ -3404,9 +3404,9 @@ Je n'ai aucune animosité envers toi, ta princesse ou ton pays !
 Le contrat m'y obligeait... !
 J'étais piégé !
 Je n'espérais pas cela !
-Il est vrai qu'au début, j'avais simplement l'intention d'épouser votre princesse sans trop y réfléchir...
-Mais quand je vous ai vu et que j'ai compris jusqu'où vous étiez prêt à aller pour vous assurer que j'épouse Son Altesse...
-J'ai saisi ma chance et je vous ai utilisé, pour mon plus grand plaisir... !
+Il est vrai qu'au début, j'avais simplement l'intention d'épouser ta princesse sans trop y réfléchir...
+Mais quand je t'ai vue et que j'ai compris jusqu'où tu étais prête à aller pour vous assurer que j'épouse Son Altesse...
+J'ai saisi ma chance et je t'ai utilisée, pour mon plus grand plaisir... !
 J'en suis terriblement désolé et je comprends que rien de ce que je dirai ne pourra jamais réparer cela...
 Mais mon jugement était obscurci !
 Par mes instincts, par mes désirs... !
@@ -3424,15 +3424,15 @@ Pas comme ça !
 [Le Seigneur du Vide Bee commence à s'agiter]
 [Le Seigneur du Vide Bee tape du pied avec impatience]
 [Le Seigneur du Vide Bee devient de plus en plus anxieuse !]
-[La Dame du Vide Bee en a assez]
-[La Dame du Vide Bee se jette sur vous d'un air nonchalant]
-[La Dame du Vide Bee bondit sur vous avec rage !]
+[Le Seigneur du Vide Bee en a assez]
+[La Seigneur du Vide Bee se jette sur vous d'un air nonchalant]
+[La Seigneur du Vide Bee bondit sur vous avec rage !]
 
 [Vous attaquez le monstre]
 [Vous frappez le monstre de toutes vos forces !]
 [Un monstre dont la simple existence se moque du monde lui-même]
 
-Laissez Son Altesse tranquille !
+Laisse Son Altesse tranquille !
 Meurs !
 Meurs, monstre !
 Prends ça, créature immonde !
@@ -3449,15 +3449,15 @@ Allez, fais mieux que ça !
 C'est inutile...
 Ne me fais pas rire !
 Tu m'ennuies à mourir !
-QU'AS-TU FAIT ?
+QU'AS-TU FAIT
 
 Waouh !
-Je ne m'étais pas autant amusé depuis des lustres !
+Je ne m'étais pas autant amusée depuis des lustres !
 Et je ne me souviens même plus de la dernière fois où un mortel a réussi à me porter un coup efficace...
 Ah oui, je m'en souviens maintenant.
 JAMAIS. 
 Eh bien, c'est un côté de toi que je ne vois pas souvent.
-Est-ce que ce mortel a réussi à blesser ton ego, par hasard ?
+Est-ce que cette mortelle a réussi à blesser ton ego, par hasard ?
 Tais-toi.
 ...
 
@@ -3504,7 +3504,7 @@ Vous souvenez-vous pourquoi vous êtes ici ?
 Ou avez-vous perdu quelque chose qui vous est très cher ?
 Sans cela, vous n'atteindrez jamais la fin.
 ...L'envieux a empoisonné votre corps, votre esprit, votre dévotion.
-Cherchez l'idole noire pour vous purifier, pour revenir à votre point de départ
+Cherchez l'idole noire pour vous purifier, pour revenir à votre point de départ.
 
 
 
@@ -3518,7 +3518,7 @@ Cherchez l'idole noire pour vous purifier, pour revenir à votre point de dépar
 
 GRAY'S DECISION
 Vous avez parcouru un long chemin, étrangère.
-À travers ces couloirs sans fin, vous nous avez montré l'étendue de votre dévouement.
+À travers ces salles sans fin, vous nous avez montré l'étendue de votre dévouement.
 Nous vous félicitons.
 
 
@@ -3548,7 +3548,7 @@ Votre dévouement continue de m'impressionner.
 Vous êtes donc autorisé à emmener une âme avec vous.
 À une condition.
 Vous ne pourrez jamais revenir ici. 
-Acceptez-vous ces conditions, est ce que vous voulez ?
+Acceptez-vous ces conditions ?
 
 Oui, je le veux. 
 
@@ -3573,10 +3573,10 @@ Quelle âme souhaitez-vous emporter avec vous ?
 Taisez-vous !
 Taisez-vous, taisez-vous, taisez-vous !
 Vous croyez que je vais accepter ça sans broncher ?!
-Vous m'avez trompé !
+Vous m'avez trompée !
 Pour qui vous prenez-vous ?!
 Ce DIS dont vous parlez sans cesse...
-Laissez-moi leur parler directement !
+Laissez-moi lui parler directement !
 Je ne l'accepte pas !
 Je veux savoir de quoi il s'agit !
 Pourquoi continuez-vous à jouer avec nous comme ça...
@@ -3619,10 +3619,10 @@ Quelle est votre décision ?
 ANOTHER MEETING WITH TAIL
 Oh, c'est encore vous...
 ...
-Je suis désolé.
+Je suis désolée.
 On m'a conseillé de ne pas vous parler.
 
-Je suis désolé.
+Je suis désolée.
 J'ai apprécié notre conversation.
 Cependant, je ne souhaite pas contrarier Bee.
 
@@ -3637,11 +3637,11 @@ Tu es impitoyable !
 Honnêtement, j'aurais dû m'en occuper moi-même...
 Ce n'est pas comme si cette bavarde savait quoi que ce soit d'intéressant.
 Donc, quelle que soit la sagesse qu'elle aurait pu partager avec toi...
-prenez-la avec des pincettes.
+Prenez-la avec des pincettes.
 Je veux dire, comment aurait-elle pu comprendre ce qui se passait à l'époque...
 ...
-Je deviens trop gentil.
-Allez mourir ou quelque chose comme ça.
+Je deviens trop gentille.
+Va mourir ou quelque chose comme ça.
 À plus !
 
 Vous semblez pressé.
@@ -4367,7 +4367,7 @@ Elle n'a pas de prix !
 
 
 
-Comme vous avez peut-être remarqué, parcourir ces couloirs peut devenir plutôt épuisant.
+Comme vous avez peut-être remarqué, parcourir ces salles peut devenir plutôt épuisant.
 Il existe cependant des raccourcis que peu de gens connaissent...
 Si vous me donnez tous vos criquets, je vous donnerai un indice pour en trouver un !
 Nous ne voudrions pas que votre esprit s’engourdisse complètement.
@@ -5853,7 +5853,7 @@ Pourtant, tu te tiens ici devant nous.
 Cette situation est tout à fait inhabituelle...
 Néanmoins, nous ne pouvons pas vous laisser rester ici. 
 Tant que vous partez en paix...
-Le DIS est prêt à conclure un contrat avec vous.
+DIS est prêt à conclure un contrat avec vous.
 Alors dites-nous.
 Que désirez-vous ?
 
@@ -6012,7 +6012,7 @@ Maintenant, étrangère...
 As-tu terminé tes recherches ?
 
 
-Qui ou quoi est le DIS ?
+Qui ou quoi est DIS ?
 
 ... ... ...
 
@@ -7360,7 +7360,7 @@ Vous ne le trouverez pas ici...
 Pourquoi n'avez-vous pas tenu compte de mon avertissement...
 Ou peut-être ne pouviez-vous pas m'entendre auparavant...
 ...
-J'ai longtemps veillé sur ces couloirs...
+J'ai longtemps veillé sur ces salles...
 Guidant, réfléchissant, me souvenant...
 Votre voyage n'est pas encore terminé...
 Ne me demandez pas comment je le sais...
